@@ -1,0 +1,13 @@
+{
+  "textures": [
+    {
+      "image": "/assets/characters/animations/female/animations.json",
+      "format": "RGBA8888",
+      "size": {
+        "w": 832,
+        "h": 1344
+      },
+      "scale": 1
+    }
+  ]
+}

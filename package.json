@@ -1,0 +1,27 @@
+{
+  "name": "@central-factory/assets-lpc",
+  "version": "1.0.0",
+  "description": "LPC (Liberated Pixel Cup) assets repository",
+  "main": "src/index.js",
+  "scripts": {
+    "build": "ts-node src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/central-factory/Universal-LPC-spritesheet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/central-factory/Universal-LPC-spritesheet/issues"
+  },
+  "homepage": "https://lpc.opengameart.org/static/LPC-Style-Guide/build/index.html",
+  "devDependencies": {
+    "@types/fs-extra": "^9.0.13",
+    "fs-extra": "^10.0.1",
+    "ts-node": "^10.5.0",
+    "typescript": "^4.5.5"
+  }
+}
