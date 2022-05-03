@@ -1,0 +1,33 @@
+License: CC-BY-SA 3.0 / GPL 3.0
+
+Attribution:
+"LPC Wild Boar" by Benjamin K. Smith (BenCreating), Daniel Eddeland (daneeklu), and Lanea Zimmerman (Sharm). Commissioned by Castelonia. https://opengameart.org/content/lpc-wild-boar
+
+Boar based on:
+ - LPC Style Farm Animals
+    Author: Daniel Eddeland (daneeklu)
+    https://opengameart.org/content/lpc-style-farm-animals
+
+Barrel based on:
+ - Liberated Pixel Cup (LPC) Base Assets (sprites & map tiles)
+    Author: Lanea Zimmerman (Sharm)
+    https://opengameart.org/content/liberated-pixel-cup-lpc-base-assets-sprites-map-tiles
+
+The armor pieces are completely original.
+
+Instructions:
+The spikes have two versions, one to use with the barrel, and one to use without. The barrel also has two versions, one to use with the armor (specifically the backplate) and one without.
+
+For best results the boar should be shifted forward 5-8 pixels on frame 3 of the left/right attack animations.
+
+Recommended layer order from top to bottom:
+- Barrel Straps
+- Barrel
+- Spikes
+- Rump Armor
+- Backplate
+- Headpiece
+- Leg Guards
+- Flank Armor
+- Armor Straps in any order
+- Boar
