@@ -2,455 +2,421 @@
   "beasts": {
     "bodies": {
       "bird": {
-        "indeterminate": {
-          "chicken": {
-            "turkey": {
-              "Walk": "Walk.png"
-            },
-            "white": {
-              "Eat": "Eat.png",
-              "Shadow": "Shadow.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            }
+        "chicken": {
+          "turkey": {
+            "Walk": "Walk.png"
           },
-          "variant_1": {
-            "bluejay": {
-              "Walk": "Walk.png"
-            },
-            "brown": {
-              "Walk": "Walk.png"
-            },
-            "red": {
-              "Walk": "Walk.png"
-            },
-            "white": {
-              "Walk": "Walk.png"
-            },
-            "white_crest": {
-              "Walk": "Walk.png"
-            }
+          "white": {
+            "Eat": "Eat.png",
+            "Shadow": "Shadow.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          }
+        },
+        "variant_1": {
+          "bluejay": {
+            "Walk": "Walk.png"
           },
-          "variant_2": {
-            "black": {
-              "Walk": "Walk.png"
-            },
-            "blue": {
-              "Walk": "Walk.png"
-            },
-            "brown": {
-              "Walk": "Walk.png"
-            },
-            "brown_2": {
-              "Walk": "Walk.png"
-            },
-            "cardinal": {
-              "Walk": "Walk.png"
-            },
-            "eagle": {
-              "Walk": "Walk.png"
-            },
-            "red": {
-              "Walk": "Walk.png"
-            },
-            "white": {
-              "Walk": "Walk.png"
-            }
+          "brown": {
+            "Walk": "Walk.png"
           },
-          "variant_3": {
-            "robin": {
-              "Walk": "Walk.png"
-            },
-            "sparrow": {
-              "Walk": "Walk.png"
-            }
+          "red": {
+            "Walk": "Walk.png"
           },
-          "variant_4": {
-            "white": {
-              "Walk": "Walk.png"
-            }
+          "white": {
+            "Walk": "Walk.png"
+          },
+          "white_crest": {
+            "Walk": "Walk.png"
+          }
+        },
+        "variant_2": {
+          "black": {
+            "Walk": "Walk.png"
+          },
+          "blue": {
+            "Walk": "Walk.png"
+          },
+          "brown": {
+            "Walk": "Walk.png"
+          },
+          "brown_2": {
+            "Walk": "Walk.png"
+          },
+          "cardinal": {
+            "Walk": "Walk.png"
+          },
+          "eagle": {
+            "Walk": "Walk.png"
+          },
+          "red": {
+            "Walk": "Walk.png"
+          },
+          "white": {
+            "Walk": "Walk.png"
+          }
+        },
+        "variant_3": {
+          "robin": {
+            "Walk": "Walk.png"
+          },
+          "sparrow": {
+            "Walk": "Walk.png"
+          }
+        },
+        "variant_4": {
+          "white": {
+            "Walk": "Walk.png"
           }
         }
       },
       "cat": {
-        "indeterminate": {
-          "cat": {
-            "white": {
-              "Walk": "Walk.png"
-            }
+        "cat": {
+          "white": {
+            "Walk": "Walk.png"
           }
         }
       },
       "cow": {
-        "female": {
-          "cow": {
-            "white": {
-              "Eat": "Eat.png",
-              "Shadow": "Shadow.png",
-              "Walk": "Walk.png"
-            }
+        "bull": {
+          "white": {
+            "Walk": "Walk.png"
           }
         },
-        "male": {
-          "bull": {
-            "white": {
-              "Walk": "Walk.png"
-            }
+        "cow": {
+          "white": {
+            "Eat": "Eat.png",
+            "Shadow": "Shadow.png",
+            "Walk": "Walk.png"
           }
         }
       },
       "eyeball": {
-        "indeterminate": {
-          "eyeball": {
-            "Cast": "Cast.png",
+        "eyeball": {
+          "Cast": "Cast.png",
+          "Walk": "Walk.png"
+        },
+        "floating_eye": {
+          "brown": {
             "Walk": "Walk.png"
-          },
-          "floating_eye": {
-            "brown": {
-              "Walk": "Walk.png"
-            }
           }
         }
       },
       "ghost": {
-        "indeterminate": {
-          "ghost": {
-            "ivory": {
-              "Cast": "Cast.png",
-              "Walk": "Walk.png"
-            }
+        "ghost": {
+          "ivory": {
+            "Cast": "Cast.png",
+            "Walk": "Walk.png"
           }
         }
       },
       "goat": {
-        "indeterminate": {
-          "goat": {
-            "white": {
-              "Walk": "Walk.png"
-            }
-          },
-          "llama": {
-            "Eat": "Eat.png",
-            "Shadow": "Shadow.png",
+        "goat": {
+          "white": {
             "Walk": "Walk.png"
-          },
-          "sheep": {
-            "white": {
-              "Eat": "Eat.png",
-              "Walk": "Walk.png"
-            }
+          }
+        },
+        "llama": {
+          "Eat": "Eat.png",
+          "Shadow": "Shadow.png",
+          "Walk": "Walk.png"
+        },
+        "sheep": {
+          "white": {
+            "Eat": "Eat.png",
+            "Walk": "Walk.png"
           }
         }
       },
       "golem": {
-        "indeterminate": {
-          "golem": {
-            "silver": {
-              "Attack": "Attack.png",
-              "Death": "Death.png",
-              "Walk": "Walk.png"
-            }
-          }
-        }
-      },
-      "horse": {
-        "indeterminate": {
-          "horse": {
-            "black": {
-              "Walk": "Walk.png"
-            },
-            "brown": {
-              "Walk": "Walk.png"
-            },
-            "golden": {
-              "Walk": "Walk.png"
-            },
-            "gray": {
-              "Walk": "Walk.png"
-            },
-            "white": {
-              "Walk": "Walk.png"
-            }
-          }
-        }
-      },
-      "imp": {
-        "indeterminate": {
-          "imp": {
-            "blue": {
-              "Attack": "Attack.png",
-              "Attack2": "Attack2.png",
-              "Attack3": "Attack3.png",
-              "Attack4": "Attack4.png",
-              "Attack5": "Attack5.png",
-              "Death": "Death.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png",
-              "Walk3": "Walk3.png",
-              "Walk4": "Walk4.png",
-              "Walk5": "Walk5.png"
-            },
-            "gray": {
-              "Walk": "Walk.png"
-            },
-            "green": {
-              "Attack": "Attack.png",
-              "Attack2": "Attack2.png",
-              "Attack3": "Attack3.png",
-              "Attack4": "Attack4.png",
-              "Attack5": "Attack5.png",
-              "Death": "Death.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png",
-              "Walk3": "Walk3.png",
-              "Walk4": "Walk4.png",
-              "Walk5": "Walk5.png"
-            },
-            "red": {
-              "Attack": "Attack.png",
-              "Attack2": "Attack2.png",
-              "Attack3": "Attack3.png",
-              "Attack4": "Attack4.png",
-              "Attack5": "Attack5.png",
-              "Death": "Death.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png",
-              "Walk3": "Walk3.png",
-              "Walk4": "Walk4.png",
-              "Walk5": "Walk5.png"
-            }
-          }
-        }
-      },
-      "insect": {
-        "indeterminate": {
-          "bee": {
-            "yellow": {
-              "BirdBath": "BirdBath.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png",
-              "Walk3": "Walk3.png"
-            }
-          },
-          "beetle": {
-            "Walk": "Walk.PNG"
-          },
-          "worm": {
-            "big": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            },
-            "small": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            }
-          }
-        }
-      },
-      "lizard": {
-        "indeterminate": {
-          "dragon": {
-            "red": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png",
-              "Walk3": "Walk3.png",
-              "Walk4": "Walk4.png"
-            }
-          },
-          "snake": {
-            "blue": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            },
-            "green": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            }
-          }
-        }
-      },
-      "pig": {
-        "indeterminate": {
-          "boar": {
-            "brown": {
-              "Walk": "Walk.png"
-            },
-            "dark": {
-              "": ".todo",
-              "Attack": "Attack.png",
-              "Attribution": "Attribution.txt",
-              "base": {
-                "Armor": {
-                  "Attack": {
-                    "Backplate Attack": "Backplate Attack.png",
-                    "Backplate Straps Attack": "Backplate Straps Attack.png",
-                    "Flank Armor Attack": "Flank Armor Attack.png",
-                    "Flank Armor Straps Attack": "Flank Armor Straps Attack.png",
-                    "Headpiece Attack": "Headpiece Attack.png",
-                    "Leg Guard Straps Attack": "Leg Guard Straps Attack.png",
-                    "Leg Guards Attack": "Leg Guards Attack.png",
-                    "Rump Armor Attack": "Rump Armor Attack.png",
-                    "Rump Armor Straps Attack": "Rump Armor Straps Attack.png",
-                    "Spikes (barrel) Attack": "Spikes (barrel) Attack.png",
-                    "Spikes Attack": "Spikes Attack.png"
-                  },
-                  "Die": {
-                    "Backplate Die": "Backplate Die.png",
-                    "Backplate Straps Die": "Backplate Straps Die.png",
-                    "Flank Armor Die": "Flank Armor Die.png",
-                    "Flank Armor Straps Die": "Flank Armor Straps Die.png",
-                    "Headpiece Die": "Headpiece Die.png",
-                    "Leg Guard Straps Die": "Leg Guard Straps Die.png",
-                    "Leg Guards Die": "Leg Guards Die.png",
-                    "Rump Armor Die": "Rump Armor Die.png",
-                    "Rump Armor Straps Die": "Rump Armor Straps Die.png",
-                    "Spikes (barrel) Die": "Spikes (barrel) Die.png",
-                    "Spikes Die": "Spikes Die.png"
-                  },
-                  "Stand": {
-                    "Backplate Stand": "Backplate Stand.png",
-                    "Backplate Straps Stand": "Backplate Straps Stand.png",
-                    "Flank Armor Stand": "Flank Armor Stand.png",
-                    "Flank Armor Straps Stand": "Flank Armor Straps Stand.png",
-                    "Headpiece Stand": "Headpiece Stand.png",
-                    "Leg Guard Straps Stand": "Leg Guard Straps Stand.png",
-                    "Leg Guards Stand": "Leg Guards Stand.png",
-                    "Rump Armor Stand": "Rump Armor Stand.png",
-                    "Rump Armor Straps Stand": "Rump Armor Straps Stand.png",
-                    "Spikes (barrel) Stand": "Spikes (barrel) Stand.png",
-                    "Spikes Stand": "Spikes Stand.png"
-                  },
-                  "Walk": {
-                    "Backplate Straps Walk": "Backplate Straps Walk.png",
-                    "Backplate Walk": "Backplate Walk.png",
-                    "Flank Armor Straps Walk": "Flank Armor Straps Walk.png",
-                    "Flank Armor Walk": "Flank Armor Walk.png",
-                    "Headpiece Walk": "Headpiece Walk.png",
-                    "Leg Guard Straps Walk": "Leg Guard Straps Walk.png",
-                    "Leg Guards Walk": "Leg Guards Walk.png",
-                    "Rump Armor Straps Walk": "Rump Armor Straps Walk.png",
-                    "Rump Armor Walk": "Rump Armor Walk.png",
-                    "Spikes (barrel) Walk": "Spikes (barrel) Walk.png",
-                    "Spikes Walk": "Spikes Walk.png"
-                  }
-                },
-                "Barrel": {
-                  "Attack": {
-                    "Barrel (armor) Attack": "Barrel (armor) Attack.png",
-                    "Barrel (armor) Straps Attack": "Barrel (armor) Straps Attack.png",
-                    "Barrel Attack": "Barrel Attack.png",
-                    "Barrel Straps Attack": "Barrel Straps Attack.png"
-                  },
-                  "Die": {
-                    "Barrel (armor) Die": "Barrel (armor) Die.png",
-                    "Barrel (armor) Straps Die": "Barrel (armor) Straps Die.png",
-                    "Barrel Die": "Barrel Die.png",
-                    "Barrel Straps Die": "Barrel Straps Die.png"
-                  },
-                  "Stand": {
-                    "Barrel (armor) Stand": "Barrel (armor) Stand.png",
-                    "Barrel (armor) Straps Stand": "Barrel (armor) Straps Stand.png",
-                    "Barrel Stand": "Barrel Stand.png",
-                    "Barrel Straps Stand": "Barrel Straps Stand.png"
-                  },
-                  "Walk": {
-                    "Barrel (armor) Straps Walk": "Barrel (armor) Straps Walk.png",
-                    "Barrel (armor) Walk": "Barrel (armor) Walk.png",
-                    "Barrel Straps Walk": "Barrel Straps Walk.png",
-                    "Barrel Walk": "Barrel Walk.png"
-                  }
-                }
-              },
-              "Die": "Die.png",
-              "Stand": "Stand.png",
-              "Walk": "Walk.png"
-            }
-          },
-          "pig": {
-            "white": {
-              "Eat": "Eat.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            }
-          },
-          "piglet": {
-            "white": {
-              "piglet": "piglet.png"
-            }
-          }
-        }
-      },
-      "plant": {
-        "indeterminate": {
-          "man_eater": {
-            "yellow": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            }
-          },
-          "pumpking": {
-            "orange": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            }
-          }
-        }
-      },
-      "rat": {
-        "indeterminate": {
-          "bat": {
-            "variant_1": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            },
-            "variant_2": {
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            }
-          },
-          "rat": {
-            "gray": {},
+        "golem": {
+          "silver": {
+            "Attack": "Attack.png",
+            "Death": "Death.png",
             "Walk": "Walk.png"
           }
         }
       },
+      "horse": {
+        "horse": {
+          "black": {
+            "Walk": "Walk.png"
+          },
+          "brown": {
+            "Walk": "Walk.png"
+          },
+          "golden": {
+            "Walk": "Walk.png"
+          },
+          "gray": {
+            "Walk": "Walk.png"
+          },
+          "white": {
+            "Walk": "Walk.png"
+          }
+        }
+      },
+      "imp": {
+        "imp": {
+          "blue": {
+            "Attack": "Attack.png",
+            "Attack2": "Attack2.png",
+            "Attack3": "Attack3.png",
+            "Attack4": "Attack4.png",
+            "Attack5": "Attack5.png",
+            "Death": "Death.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png",
+            "Walk3": "Walk3.png",
+            "Walk4": "Walk4.png",
+            "Walk5": "Walk5.png"
+          },
+          "gray": {
+            "Walk": "Walk.png"
+          },
+          "green": {
+            "Attack": "Attack.png",
+            "Attack2": "Attack2.png",
+            "Attack3": "Attack3.png",
+            "Attack4": "Attack4.png",
+            "Attack5": "Attack5.png",
+            "Death": "Death.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png",
+            "Walk3": "Walk3.png",
+            "Walk4": "Walk4.png",
+            "Walk5": "Walk5.png"
+          },
+          "red": {
+            "Attack": "Attack.png",
+            "Attack2": "Attack2.png",
+            "Attack3": "Attack3.png",
+            "Attack4": "Attack4.png",
+            "Attack5": "Attack5.png",
+            "Death": "Death.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png",
+            "Walk3": "Walk3.png",
+            "Walk4": "Walk4.png",
+            "Walk5": "Walk5.png"
+          }
+        }
+      },
+      "insect": {
+        "bee": {
+          "yellow": {
+            "BirdBath": "BirdBath.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png",
+            "Walk3": "Walk3.png"
+          }
+        },
+        "beetle": {
+          "Walk": "Walk.PNG"
+        },
+        "worm": {
+          "big": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          },
+          "small": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          }
+        }
+      },
+      "lizard": {
+        "dragon": {
+          "red": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png",
+            "Walk3": "Walk3.png",
+            "Walk4": "Walk4.png"
+          }
+        },
+        "snake": {
+          "blue": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          },
+          "green": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          }
+        }
+      },
+      "pig": {
+        "boar": {
+          "brown": {
+            "Walk": "Walk.png"
+          },
+          "dark": {
+            "": ".todo",
+            "Attack": "Attack.png",
+            "Attribution": "Attribution.txt",
+            "base": {
+              "Armor": {
+                "Attack": {
+                  "Backplate Attack": "Backplate Attack.png",
+                  "Backplate Straps Attack": "Backplate Straps Attack.png",
+                  "Flank Armor Attack": "Flank Armor Attack.png",
+                  "Flank Armor Straps Attack": "Flank Armor Straps Attack.png",
+                  "Headpiece Attack": "Headpiece Attack.png",
+                  "Leg Guard Straps Attack": "Leg Guard Straps Attack.png",
+                  "Leg Guards Attack": "Leg Guards Attack.png",
+                  "Rump Armor Attack": "Rump Armor Attack.png",
+                  "Rump Armor Straps Attack": "Rump Armor Straps Attack.png",
+                  "Spikes (barrel) Attack": "Spikes (barrel) Attack.png",
+                  "Spikes Attack": "Spikes Attack.png"
+                },
+                "Die": {
+                  "Backplate Die": "Backplate Die.png",
+                  "Backplate Straps Die": "Backplate Straps Die.png",
+                  "Flank Armor Die": "Flank Armor Die.png",
+                  "Flank Armor Straps Die": "Flank Armor Straps Die.png",
+                  "Headpiece Die": "Headpiece Die.png",
+                  "Leg Guard Straps Die": "Leg Guard Straps Die.png",
+                  "Leg Guards Die": "Leg Guards Die.png",
+                  "Rump Armor Die": "Rump Armor Die.png",
+                  "Rump Armor Straps Die": "Rump Armor Straps Die.png",
+                  "Spikes (barrel) Die": "Spikes (barrel) Die.png",
+                  "Spikes Die": "Spikes Die.png"
+                },
+                "Stand": {
+                  "Backplate Stand": "Backplate Stand.png",
+                  "Backplate Straps Stand": "Backplate Straps Stand.png",
+                  "Flank Armor Stand": "Flank Armor Stand.png",
+                  "Flank Armor Straps Stand": "Flank Armor Straps Stand.png",
+                  "Headpiece Stand": "Headpiece Stand.png",
+                  "Leg Guard Straps Stand": "Leg Guard Straps Stand.png",
+                  "Leg Guards Stand": "Leg Guards Stand.png",
+                  "Rump Armor Stand": "Rump Armor Stand.png",
+                  "Rump Armor Straps Stand": "Rump Armor Straps Stand.png",
+                  "Spikes (barrel) Stand": "Spikes (barrel) Stand.png",
+                  "Spikes Stand": "Spikes Stand.png"
+                },
+                "Walk": {
+                  "Backplate Straps Walk": "Backplate Straps Walk.png",
+                  "Backplate Walk": "Backplate Walk.png",
+                  "Flank Armor Straps Walk": "Flank Armor Straps Walk.png",
+                  "Flank Armor Walk": "Flank Armor Walk.png",
+                  "Headpiece Walk": "Headpiece Walk.png",
+                  "Leg Guard Straps Walk": "Leg Guard Straps Walk.png",
+                  "Leg Guards Walk": "Leg Guards Walk.png",
+                  "Rump Armor Straps Walk": "Rump Armor Straps Walk.png",
+                  "Rump Armor Walk": "Rump Armor Walk.png",
+                  "Spikes (barrel) Walk": "Spikes (barrel) Walk.png",
+                  "Spikes Walk": "Spikes Walk.png"
+                }
+              },
+              "Barrel": {
+                "Attack": {
+                  "Barrel (armor) Attack": "Barrel (armor) Attack.png",
+                  "Barrel (armor) Straps Attack": "Barrel (armor) Straps Attack.png",
+                  "Barrel Attack": "Barrel Attack.png",
+                  "Barrel Straps Attack": "Barrel Straps Attack.png"
+                },
+                "Die": {
+                  "Barrel (armor) Die": "Barrel (armor) Die.png",
+                  "Barrel (armor) Straps Die": "Barrel (armor) Straps Die.png",
+                  "Barrel Die": "Barrel Die.png",
+                  "Barrel Straps Die": "Barrel Straps Die.png"
+                },
+                "Stand": {
+                  "Barrel (armor) Stand": "Barrel (armor) Stand.png",
+                  "Barrel (armor) Straps Stand": "Barrel (armor) Straps Stand.png",
+                  "Barrel Stand": "Barrel Stand.png",
+                  "Barrel Straps Stand": "Barrel Straps Stand.png"
+                },
+                "Walk": {
+                  "Barrel (armor) Straps Walk": "Barrel (armor) Straps Walk.png",
+                  "Barrel (armor) Walk": "Barrel (armor) Walk.png",
+                  "Barrel Straps Walk": "Barrel Straps Walk.png",
+                  "Barrel Walk": "Barrel Walk.png"
+                }
+              }
+            },
+            "Die": "Die.png",
+            "Stand": "Stand.png",
+            "Walk": "Walk.png"
+          }
+        },
+        "pig": {
+          "white": {
+            "Eat": "Eat.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          }
+        },
+        "piglet": {
+          "white": {
+            "piglet": "piglet.png"
+          }
+        }
+      },
+      "plant": {
+        "man_eater": {
+          "yellow": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          }
+        },
+        "pumpking": {
+          "orange": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          }
+        }
+      },
+      "rat": {
+        "bat": {
+          "variant_1": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          },
+          "variant_2": {
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          }
+        },
+        "rat": {
+          "gray": {},
+          "Walk": "Walk.png"
+        }
+      },
       "slime": {
-        "indeterminate": {
-          "slime": {
-            "green": {
-              "Projectile": "Projectile.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            }
+        "slime": {
+          "green": {
+            "Projectile": "Projectile.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
           }
         }
       },
       "wolf": {
-        "indeterminate": {
-          "dog": {
-            "white": {
-              "Walk": "Walk.png"
-            }
+        "dog": {
+          "white": {
+            "Walk": "Walk.png"
+          }
+        },
+        "wolf": {
+          "brown": {
+            "Walk": "Walk.png"
           },
-          "wolf": {
-            "brown": {
-              "Walk": "Walk.png"
-            },
-            "brown_2": {
-              "Walk": "Walk.png"
-            },
-            "brown_3": {
-              "Walk": "Walk.png"
-            },
-            "brown_4": {
-              "Walk": "Walk.png"
-            },
-            "brown_5": {
-              "Walk": "Walk.png"
-            },
-            "brown_6": {
-              "Walk": "Walk.png"
-            }
+          "brown_2": {
+            "Walk": "Walk.png"
+          },
+          "brown_3": {
+            "Walk": "Walk.png"
+          },
+          "brown_4": {
+            "Walk": "Walk.png"
+          },
+          "brown_5": {
+            "Walk": "Walk.png"
+          },
+          "brown_6": {
+            "Walk": "Walk.png"
           }
         }
       }
@@ -460,707 +426,636 @@
     "bodies": {
       "alien": {
         "male": {
-          "adult": {
-            "gray": {
-              "": ".todo",
-              "Walk": "Walk.png"
-            }
+          "gray": {
+            "": ".todo",
+            "Walk": "Walk.png"
           }
         }
       },
       "aracne": {
         "female": {
-          "adult": {
-            "yellow": {
-              "": ".todo",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png",
-              "Walk3": "Walk3.png",
-              "Walk4": "Walk4.png",
-              "Walk5": "Walk5.png",
-              "Walk6": "Walk6.png"
-            }
+          "yellow": {
+            "": ".todo",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png",
+            "Walk3": "Walk3.png",
+            "Walk4": "Walk4.png",
+            "Walk5": "Walk5.png",
+            "Walk6": "Walk6.png"
           }
         }
       },
       "boarman": {
-        "male": {
-          "muscular": {
-            "brown": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
-          },
-          "wild": {
-            "brown": {
-              "": ".todo",
-              "Universal": "Universal.png"
-            }
+        "muscular": {
+          "brown": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          }
+        },
+        "wild": {
+          "brown": {
+            "": ".todo",
+            "Universal": "Universal.png"
           }
         }
       },
       "elf": {
+        "child": {
+          "lavender": {
+            "Walk": "Walk.png"
+          },
+          "periwinkle": {
+            "Walk": "Walk.png"
+          }
+        },
         "female": {
-          "adult": {
-            "dove": {
-              "": ".todo",
-              "base": {
-                "hurt": "hurt.png",
-                "idle": "idle.png",
-                "magic": "magic.png",
-                "shoot": "shoot.png",
-                "swing": "swing.png",
-                "thrust": "thrust.png",
-                "walk": "walk.png",
-                "_preview": "_preview.png"
-              }
-            },
-            "lavender": {
-              "base": {
-                "hurt": "hurt.png",
-                "idle": "idle.png",
-                "magic": "magic.png",
-                "shoot": "shoot.png",
-                "swing": "swing.png",
-                "thrust": "thrust.png",
-                "walk": "walk.png",
-                "_preview": "_preview.png"
-              },
-              "Universal": "Universal.png"
-            },
-            "periwinkle": {
-              "Universal": "Universal.png"
+          "dove": {
+            "": ".todo",
+            "base": {
+              "hurt": "hurt.png",
+              "idle": "idle.png",
+              "magic": "magic.png",
+              "shoot": "shoot.png",
+              "swing": "swing.png",
+              "thrust": "thrust.png",
+              "walk": "walk.png",
+              "_preview": "_preview.png"
             }
+          },
+          "lavender": {
+            "base": {
+              "hurt": "hurt.png",
+              "idle": "idle.png",
+              "magic": "magic.png",
+              "shoot": "shoot.png",
+              "swing": "swing.png",
+              "thrust": "thrust.png",
+              "walk": "walk.png",
+              "_preview": "_preview.png"
+            },
+            "Universal": "Universal.png"
+          },
+          "periwinkle": {
+            "Universal": "Universal.png"
           }
         },
         "male": {
-          "adult": {
-            "lavender": {
-              "Universal": "Universal.png"
-            },
-            "periwinkle": {
-              "Universal": "Universal.png"
-            }
+          "lavender": {
+            "Universal": "Universal.png"
           },
-          "child": {
-            "lavender": {
-              "Walk": "Walk.png"
-            },
-            "periwinkle": {
-              "Walk": "Walk.png"
-            }
+          "periwinkle": {
+            "Universal": "Universal.png"
           }
         }
       },
       "frogman": {
+        "king": {
+          "green": {
+            "": ".todo",
+            "Universal": "Universal.png"
+          }
+        },
         "male": {
-          "adult": {
-            "green": {
-              "": ".todo",
-              "Universal": "Universal.png",
-              "Universal2": "Universal2.png"
-            }
-          },
-          "king": {
-            "green": {
-              "": ".todo",
-              "Universal": "Universal.png"
-            }
+          "green": {
+            "": ".todo",
+            "Universal": "Universal.png",
+            "Universal2": "Universal2.png"
           }
         }
       },
       "goblin": {
         "male": {
-          "adult": {
-            "forest": {
-              "": ".todo",
-              "Walk": "Walk.png"
-            },
-            "green": {
-              "": ".todo",
-              "Slash": "Slash.png",
-              "Walk": "Walk.png"
-            }
+          "forest": {
+            "": ".todo",
+            "Walk": "Walk.png"
+          },
+          "green": {
+            "": ".todo",
+            "Slash": "Slash.png",
+            "Walk": "Walk.png"
           }
         }
       },
       "human": {
+        "baby": {
+          "ivory": {
+            "": ".todo",
+            "Universal": "Universal.png"
+          }
+        },
+        "child": {
+          "black": {
+            "Walk": "Walk.png"
+          },
+          "brown": {
+            "Walk": "Walk.png"
+          },
+          "copper": {
+            "Walk": "Walk.png"
+          },
+          "ivory": {
+            "Attribution": "Attribution.txt",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Jump": "Jump.png",
+            "Slash": "Slash.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          },
+          "light": {},
+          "olive": {
+            "Walk": "Walk.png"
+          },
+          "peach": {
+            "Walk": "Walk.png"
+          },
+          "sienna": {
+            "Walk": "Walk.png"
+          },
+          "tanned": {
+            "Walk": "Walk.png"
+          },
+          "tanned_2": {
+            "Walk": "Walk.png"
+          }
+        },
         "female": {
-          "adult": {
-            "black": {
-              "Universal": "Universal.png"
-            },
-            "brown": {
-              "Universal": "Universal.png"
-            },
-            "coffee": {
-              "": ".todo",
-              "base": {
-                "hurt": "hurt.png",
-                "idle": "idle.png",
-                "magic": "magic.png",
-                "shoot": "shoot.png",
-                "swing": "swing.png",
-                "thrust": "thrust.png",
-                "walk": "walk.png",
-                "_preview": "_preview.png"
-              }
-            },
-            "comet": {
-              "": ".todo",
-              "base": {
-                "hurt": "hurt.png",
-                "idle": "idle.png",
-                "magic": "magic.png",
-                "shoot": "shoot.png",
-                "swing": "swing.png",
-                "thrust": "thrust.png",
-                "walk": "walk.png",
-                "_preview": "_preview.png"
-              }
-            },
-            "copper": {
-              "base": {
-                "hurt": "hurt.png",
-                "idle": "idle.png",
-                "magic": "magic.png",
-                "shoot": "shoot.png",
-                "swing": "swing.png",
-                "thrust": "thrust.png",
-                "walk": "walk.png",
-                "_preview": "_preview.png"
-              },
-              "Universal": "Universal.png"
-            },
-            "gold": {
-              "base": {
-                "hurt": "hurt.png",
-                "idle": "idle.png",
-                "magic": "magic.png",
-                "shoot": "shoot.png",
-                "swing": "swing.png",
-                "thrust": "thrust.png",
-                "walk": "walk.png",
-                "_preview": "_preview.png"
-              },
-              "Universal": "Universal.png"
-            },
-            "ivory": {
-              "base": {
-                "hurt": "hurt.png",
-                "idle": "idle.png",
-                "magic": "magic.png",
-                "shoot": "shoot.png",
-                "swing": "swing.png",
-                "thrust": "thrust.png",
-                "walk": "walk.png",
-                "_preview": "_preview.png"
-              },
-              "Universal": "Universal.png",
-              "Universal2": "Universal2.png"
-            },
-            "olive": {
-              "Universal": "Universal.png"
-            },
-            "peach": {
-              "Universal": "Universal.png"
-            },
-            "sienna": {
-              "base": {
-                "hurt": "hurt.png",
-                "idle": "idle.png",
-                "magic": "magic.png",
-                "shoot": "shoot.png",
-                "swing": "swing.png",
-                "thrust": "thrust.png",
-                "walk": "walk.png",
-                "_preview": "_preview.png"
-              },
-              "Universal": "Universal.png"
-            },
-            "tanned": {
-              "Universal": "Universal.png"
+          "black": {
+            "Universal": "Universal.png"
+          },
+          "brown": {
+            "Universal": "Universal.png"
+          },
+          "coffee": {
+            "": ".todo",
+            "base": {
+              "hurt": "hurt.png",
+              "idle": "idle.png",
+              "magic": "magic.png",
+              "shoot": "shoot.png",
+              "swing": "swing.png",
+              "thrust": "thrust.png",
+              "walk": "walk.png",
+              "_preview": "_preview.png"
             }
           },
-          "child": {
-            "black": {
-              "Walk": "Walk.png"
-            },
-            "brown": {
-              "Walk": "Walk.png"
-            },
-            "ivory": {
-              "Walk": "Walk.png"
-            },
-            "olive": {
-              "Walk": "Walk.png"
-            },
-            "peach": {
-              "Walk": "Walk.png"
+          "comet": {
+            "": ".todo",
+            "base": {
+              "hurt": "hurt.png",
+              "idle": "idle.png",
+              "magic": "magic.png",
+              "shoot": "shoot.png",
+              "swing": "swing.png",
+              "thrust": "thrust.png",
+              "walk": "walk.png",
+              "_preview": "_preview.png"
             }
           },
-          "pregnant": {
-            "ivory": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Jump": "Jump.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "copper": {
+            "base": {
+              "hurt": "hurt.png",
+              "idle": "idle.png",
+              "magic": "magic.png",
+              "shoot": "shoot.png",
+              "swing": "swing.png",
+              "thrust": "thrust.png",
+              "walk": "walk.png",
+              "_preview": "_preview.png"
+            },
+            "Universal": "Universal.png"
+          },
+          "gold": {
+            "base": {
+              "hurt": "hurt.png",
+              "idle": "idle.png",
+              "magic": "magic.png",
+              "shoot": "shoot.png",
+              "swing": "swing.png",
+              "thrust": "thrust.png",
+              "walk": "walk.png",
+              "_preview": "_preview.png"
+            },
+            "Universal": "Universal.png"
+          },
+          "ivory": {
+            "base": {
+              "hurt": "hurt.png",
+              "idle": "idle.png",
+              "magic": "magic.png",
+              "shoot": "shoot.png",
+              "swing": "swing.png",
+              "thrust": "thrust.png",
+              "walk": "walk.png",
+              "_preview": "_preview.png"
+            },
+            "Universal": "Universal.png",
+            "Universal2": "Universal2.png"
+          },
+          "olive": {
+            "Universal": "Universal.png"
+          },
+          "peach": {
+            "Universal": "Universal.png"
+          },
+          "sienna": {
+            "base": {
+              "hurt": "hurt.png",
+              "idle": "idle.png",
+              "magic": "magic.png",
+              "shoot": "shoot.png",
+              "swing": "swing.png",
+              "thrust": "thrust.png",
+              "walk": "walk.png",
+              "_preview": "_preview.png"
+            },
+            "Universal": "Universal.png"
+          },
+          "tanned": {
+            "Universal": "Universal.png"
           }
         },
         "male": {
-          "adult": {
-            "black": {
-              "Universal": "Universal.png"
-            },
-            "brown": {
-              "Universal": "Universal.png"
-            },
-            "copper": {
-              "Universal": "Universal.png"
-            },
-            "gold": {
-              "Universal": "Universal.png"
-            },
-            "ivory": {
-              "Grab": "Grab.png",
-              "Universal": "Universal.png",
-              "Universal2": "Universal2.png"
-            },
-            "olive": {
-              "Universal": "Universal.png"
-            },
-            "peach": {
-              "Universal": "Universal.png"
-            },
-            "sienna": {
-              "Universal": "Universal.png"
-            },
-            "tanned": {
-              "Universal": "Universal.png"
-            }
+          "black": {
+            "Universal": "Universal.png"
           },
-          "baby": {
-            "ivory": {
-              "": ".todo",
-              "Universal": "Universal.png"
-            }
+          "brown": {
+            "Universal": "Universal.png"
           },
-          "child": {
-            "black": {
-              "Walk": "Walk.png"
-            },
-            "brown": {
-              "Walk": "Walk.png"
-            },
-            "copper": {
-              "Walk": "Walk.png"
-            },
-            "ivory": {
-              "Attribution": "Attribution.txt",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Jump": "Jump.png",
-              "Slash": "Slash.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            },
-            "light": {},
-            "olive": {
-              "Walk": "Walk.png"
-            },
-            "peach": {
-              "Walk": "Walk.png"
-            },
-            "sienna": {
-              "Walk": "Walk.png"
-            },
-            "tanned": {
-              "Walk": "Walk.png"
-            },
-            "tanned_2": {
-              "Walk": "Walk.png"
-            }
+          "copper": {
+            "Universal": "Universal.png"
           },
-          "muscular": {
-            "ivory": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Jump": "Jump.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "gold": {
+            "Universal": "Universal.png"
           },
-          "teen": {
-            "ivory": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Jump": "Jump.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "ivory": {
+            "Grab": "Grab.png",
+            "Universal": "Universal.png",
+            "Universal2": "Universal2.png"
+          },
+          "olive": {
+            "Universal": "Universal.png"
+          },
+          "peach": {
+            "Universal": "Universal.png"
+          },
+          "sienna": {
+            "Universal": "Universal.png"
+          },
+          "tanned": {
+            "Universal": "Universal.png"
+          }
+        },
+        "muscular": {
+          "ivory": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Jump": "Jump.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          }
+        },
+        "pregnant": {
+          "ivory": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Jump": "Jump.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          }
+        },
+        "teen": {
+          "ivory": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Jump": "Jump.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         }
       },
       "lizardman": {
-        "female": {
-          "adult": {
-            "green": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+        "child": {
+          "blue": {
+            "Walk": "Walk.png"
           },
-          "pregnant": {
-            "green": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "forest": {
+            "Walk": "Walk.png"
+          },
+          "green": {
+            "Walk": "Walk.png"
+          }
+        },
+        "female": {
+          "green": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         },
         "male": {
-          "adult": {
-            "green": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
-          },
-          "child": {
-            "blue": {
-              "Walk": "Walk.png"
-            },
-            "forest": {
-              "Walk": "Walk.png"
-            },
-            "green": {
-              "Walk": "Walk.png"
-            }
+          "green": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          }
+        },
+        "pregnant": {
+          "green": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         }
       },
       "minotaur": {
         "male": {
-          "adult": {
-            "olive": {
-              "Universal": "Universal.png"
-            }
-          },
-          "muscular": {
-            "olive": {
-              "Universal": "Universal.png"
-            }
+          "olive": {
+            "Universal": "Universal.png"
           }
-        }
+        },
+        "muscular": {}
       },
       "orc": {
+        "child": {
+          "green": {
+            "Walk": "Walk.png"
+          },
+          "red": {
+            "Walk": "Walk.png"
+          }
+        },
         "female": {
-          "adult": {
-            "green": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "red": {
-              "Universal": "Universal.png"
-            }
+          "green": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           },
-          "child": {
-            "green": {
-              "Walk": "Walk.png"
-            },
-            "red": {
-              "Walk": "Walk.png"
-            }
-          },
-          "pregnant": {
-            "green": {
-              "Universal": "Universal.png"
-            }
+          "red": {
+            "Universal": "Universal.png"
           }
         },
         "male": {
-          "adult": {
-            "green": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "red": {
-              "Universal": "Universal.png"
-            },
-            "uruk": {
-              "": ".todo",
-              "Slash": "Slash.png",
-              "Walk": "Walk.png"
-            }
+          "green": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           },
-          "child": {
-            "green": {
-              "Walk": "Walk.png"
-            },
-            "red": {
-              "Walk": "Walk.png"
-            }
+          "red": {
+            "Universal": "Universal.png"
+          },
+          "uruk": {
+            "": ".todo",
+            "Slash": "Slash.png",
+            "Walk": "Walk.png"
+          }
+        },
+        "pregnant": {
+          "green": {
+            "Universal": "Universal.png"
           }
         }
       },
       "satyr": {
         "male": {
-          "adult": {
-            "olive": {
-              "Universal": "Universal.png"
-            }
+          "olive": {
+            "Universal": "Universal.png"
           }
         }
       },
       "skeleton": {
         "female": {
-          "adult": {
-            "ivory": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "ivory": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         },
         "male": {
-          "adult": {
-            "ivory": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "ivory": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         }
       },
       "wolfman": {
         "female": {
-          "adult": {
-            "black": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "brown": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            },
-            "chestnut": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "gold": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "gray": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "ivory": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "black": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           },
-          "pregnant": {
-            "brown": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "brown": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          },
+          "chestnut": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          },
+          "gold": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          },
+          "gray": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          },
+          "ivory": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         },
         "male": {
-          "adult": {
-            "black": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "brown": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png",
-              "Walk2": "Walk2.png"
-            },
-            "chestnut": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "gold": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "gray": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            },
-            "ivory": {
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "black": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          },
+          "brown": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png",
+            "Walk2": "Walk2.png"
+          },
+          "chestnut": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          },
+          "gold": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          },
+          "gray": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          },
+          "ivory": {
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
+          }
+        },
+        "pregnant": {
+          "brown": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         }
       },
       "zombie": {
         "female": {
-          "adult": {
-            "gray": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "gray": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         },
         "male": {
-          "adult": {
-            "gray": {
-              "Attribution": "Attribution.txt",
-              "Cast": "Cast.png",
-              "Hurt": "Hurt.png",
-              "Idle": "Idle.png",
-              "Shoot": "Shoot.png",
-              "Slash": "Slash.png",
-              "Thrust": "Thrust.png",
-              "Universal": "Universal.png",
-              "Walk": "Walk.png"
-            }
+          "gray": {
+            "Attribution": "Attribution.txt",
+            "Cast": "Cast.png",
+            "Hurt": "Hurt.png",
+            "Idle": "Idle.png",
+            "Shoot": "Shoot.png",
+            "Slash": "Slash.png",
+            "Thrust": "Thrust.png",
+            "Universal": "Universal.png",
+            "Walk": "Walk.png"
           }
         }
       }
