@@ -107,8 +107,10 @@ const generateFileContent = (bodyType: BodyTypeDef, animations: AnimationDef[]) 
 
     await ensureFile(destination);
 
-    return writeJSON(destination, content, {
+    await writeJSON(destination, content, {
       spaces: 2
     });
+
+    console.info(`Generated ${destination}`);
   }))
 })();

@@ -27,14 +27,14 @@ const generateDirectoryIndex = (dirPath) => {
     }
   });
 
-  fs.writeFileSync(
-    path.join(dirPath, "index.json"),
-    JSON.stringify(dirIndex, null, 2)
-  );
-
-  console.log(dirIndex);
-
   return dirIndex;
 };
 
-const dirIndex = generateDirectoryIndex("./assets2");
+const charactersIndex = generateDirectoryIndex("./assets2/characters");
+
+fs.writeFileSync(
+  path.join("./assets2/characters", "index.json"),
+  JSON.stringify(charactersIndex, null, 2)
+);
+
+console.log(charactersIndex);

@@ -1,87 +1,711 @@
 {
-  "bodies": {
-    "dark_elf": {
-      "male": {
-        "adult": {
-          "lavender": "lavender.png",
-          "periwinkle": "periwinkle.png"
-        }
-      }
-    },
-    "human": {
-      "female": {
-        "adult": {
-          "black": "black.png",
-          "brown": "brown.png",
-          "light": "light.png",
-          "olive": "olive.png",
-          "peach": "peach.png",
-          "white": "white.png"
-        },
-        "child": {
-          "black": "black.png",
-          "brown": "brown.png",
-          "olive": "olive.png",
-          "peach": "peach.png",
-          "white": "white.png"
-        },
-        "pregnant": {
-          "white": "white.png"
+  "beasts": {},
+  "humanoids": {
+    "bodies": {
+      "alien": {
+        "male": {
+          "adult": {
+            "gray": {
+              "": ".todo",
+              "Walk": "Walk.png"
+            }
+          }
         }
       },
-      "male": {
-        "adult": {
-          "black": "black.png",
-          "brown": "brown.png",
-          "light": "light.png",
-          "olive": "olive.png",
-          "peach": "peach.png",
-          "white": "white.png"
-        },
-        "child": {
-          "black": "black.png",
-          "brown": "brown.png",
-          "olive": "olive.png",
-          "peach": "peach.png",
-          "white": "white.png"
-        },
-        "muscular": {
-          "white": "white.png"
-        }
-      }
-    },
-    "minotaur": {
-      "male": {
-        "adult": {
-          "brown": "brown.png"
-        },
-        "muscular": {
-          "brown": "brown.png"
-        }
-      }
-    },
-    "orc": {
-      "female": {
-        "adult": {
-          "green": "green.png",
-          "red": "red.png"
-        },
-        "child": {
-          "green": "green.png",
-          "red": "red.png"
-        },
-        "pregnant": {
-          "green": "green.png"
+      "aracne": {
+        "female": {
+          "adult": {
+            "yellow": {
+              "": ".todo",
+              "Walk": "Walk.png",
+              "Walk2": "Walk2.png",
+              "Walk3": "Walk3.png",
+              "Walk4": "Walk4.png",
+              "Walk5": "Walk5.png",
+              "Walk6": "Walk6.png"
+            }
+          }
         }
       },
-      "male": {
-        "adult": {
-          "green": "green.png",
-          "red": "red.png"
+      "boarman": {
+        "male": {
+          "muscular": {
+            "brown": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          },
+          "wild": {
+            "brown": {
+              "": ".todo",
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "elf": {
+        "female": {
+          "adult": {
+            "dove": {
+              "": ".todo",
+              "base": {
+                "hurt": "hurt.png",
+                "idle": "idle.png",
+                "magic": "magic.png",
+                "shoot": "shoot.png",
+                "swing": "swing.png",
+                "thrust": "thrust.png",
+                "walk": "walk.png",
+                "_preview": "_preview.png"
+              }
+            },
+            "lavender": {
+              "base": {
+                "hurt": "hurt.png",
+                "idle": "idle.png",
+                "magic": "magic.png",
+                "shoot": "shoot.png",
+                "swing": "swing.png",
+                "thrust": "thrust.png",
+                "walk": "walk.png",
+                "_preview": "_preview.png"
+              },
+              "Universal": "Universal.png"
+            },
+            "periwinkle": {
+              "Universal": "Universal.png"
+            }
+          }
         },
-        "child": {
-          "green": "green.png",
-          "red": "red.png"
+        "male": {
+          "adult": {
+            "lavender": {
+              "Universal": "Universal.png"
+            },
+            "periwinkle": {
+              "Universal": "Universal.png"
+            }
+          },
+          "child": {
+            "lavender": {
+              "Walk": "Walk.png"
+            },
+            "periwinkle": {
+              "Walk": "Walk.png"
+            }
+          }
+        }
+      },
+      "frogman": {
+        "male": {
+          "adult": {
+            "green": {
+              "": ".todo",
+              "Universal": "Universal.png",
+              "Universal2": "Universal2.png"
+            }
+          },
+          "king": {
+            "green": {
+              "": ".todo",
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "goblin": {
+        "male": {
+          "adult": {
+            "forest": {
+              "": ".todo",
+              "Walk": "Walk.png"
+            },
+            "green": {
+              "": ".todo",
+              "Slash": "Slash.png",
+              "Walk": "Walk.png"
+            }
+          }
+        }
+      },
+      "human": {
+        "female": {
+          "adult": {
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "coffee": {
+              "": ".todo",
+              "base": {
+                "hurt": "hurt.png",
+                "idle": "idle.png",
+                "magic": "magic.png",
+                "shoot": "shoot.png",
+                "swing": "swing.png",
+                "thrust": "thrust.png",
+                "walk": "walk.png",
+                "_preview": "_preview.png"
+              }
+            },
+            "comet": {
+              "": ".todo",
+              "base": {
+                "hurt": "hurt.png",
+                "idle": "idle.png",
+                "magic": "magic.png",
+                "shoot": "shoot.png",
+                "swing": "swing.png",
+                "thrust": "thrust.png",
+                "walk": "walk.png",
+                "_preview": "_preview.png"
+              }
+            },
+            "copper": {
+              "base": {
+                "hurt": "hurt.png",
+                "idle": "idle.png",
+                "magic": "magic.png",
+                "shoot": "shoot.png",
+                "swing": "swing.png",
+                "thrust": "thrust.png",
+                "walk": "walk.png",
+                "_preview": "_preview.png"
+              },
+              "Universal": "Universal.png"
+            },
+            "gold": {
+              "base": {
+                "hurt": "hurt.png",
+                "idle": "idle.png",
+                "magic": "magic.png",
+                "shoot": "shoot.png",
+                "swing": "swing.png",
+                "thrust": "thrust.png",
+                "walk": "walk.png",
+                "_preview": "_preview.png"
+              },
+              "Universal": "Universal.png"
+            },
+            "ivory": {
+              "base": {
+                "hurt": "hurt.png",
+                "idle": "idle.png",
+                "magic": "magic.png",
+                "shoot": "shoot.png",
+                "swing": "swing.png",
+                "thrust": "thrust.png",
+                "walk": "walk.png",
+                "_preview": "_preview.png"
+              },
+              "Universal": "Universal.png",
+              "Universal2": "Universal2.png"
+            },
+            "olive": {
+              "Universal": "Universal.png"
+            },
+            "peach": {
+              "Universal": "Universal.png"
+            },
+            "sienna": {
+              "base": {
+                "hurt": "hurt.png",
+                "idle": "idle.png",
+                "magic": "magic.png",
+                "shoot": "shoot.png",
+                "swing": "swing.png",
+                "thrust": "thrust.png",
+                "walk": "walk.png",
+                "_preview": "_preview.png"
+              },
+              "Universal": "Universal.png"
+            },
+            "tanned": {
+              "Universal": "Universal.png"
+            }
+          },
+          "child": {
+            "black": {
+              "Walk": "Walk.png"
+            },
+            "brown": {
+              "Walk": "Walk.png"
+            },
+            "ivory": {
+              "Walk": "Walk.png"
+            },
+            "olive": {
+              "Walk": "Walk.png"
+            },
+            "peach": {
+              "Walk": "Walk.png"
+            }
+          },
+          "pregnant": {
+            "ivory": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Jump": "Jump.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
+        },
+        "male": {
+          "adult": {
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "copper": {
+              "Universal": "Universal.png"
+            },
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "ivory": {
+              "Grab": "Grab.png",
+              "Universal": "Universal.png",
+              "Universal2": "Universal2.png"
+            },
+            "olive": {
+              "Universal": "Universal.png"
+            },
+            "peach": {
+              "Universal": "Universal.png"
+            },
+            "sienna": {
+              "Universal": "Universal.png"
+            },
+            "tanned": {
+              "Universal": "Universal.png"
+            }
+          },
+          "baby": {
+            "ivory": {
+              "": ".todo",
+              "Universal": "Universal.png"
+            }
+          },
+          "child": {
+            "black": {
+              "Walk": "Walk.png"
+            },
+            "brown": {
+              "Walk": "Walk.png"
+            },
+            "copper": {
+              "Walk": "Walk.png"
+            },
+            "ivory": {
+              "Attribution": "Attribution.txt",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Jump": "Jump.png",
+              "Slash": "Slash.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png",
+              "Walk2": "Walk2.png"
+            },
+            "light": {},
+            "olive": {
+              "Walk": "Walk.png"
+            },
+            "peach": {
+              "Walk": "Walk.png"
+            },
+            "sienna": {
+              "Walk": "Walk.png"
+            },
+            "tanned": {
+              "Walk": "Walk.png"
+            },
+            "tanned_2": {
+              "Walk": "Walk.png"
+            }
+          },
+          "muscular": {
+            "ivory": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Jump": "Jump.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          },
+          "teen": {
+            "ivory": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Jump": "Jump.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
+        }
+      },
+      "lizardman": {
+        "female": {
+          "adult": {
+            "green": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          },
+          "pregnant": {
+            "green": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
+        },
+        "male": {
+          "adult": {
+            "green": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          },
+          "child": {
+            "blue": {
+              "Walk": "Walk.png"
+            },
+            "forest": {
+              "Walk": "Walk.png"
+            },
+            "green": {
+              "Walk": "Walk.png"
+            }
+          }
+        }
+      },
+      "minotaur": {
+        "male": {
+          "adult": {
+            "olive": {
+              "Universal": "Universal.png"
+            }
+          },
+          "muscular": {
+            "olive": {
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "orc": {
+        "female": {
+          "adult": {
+            "green": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            }
+          },
+          "child": {
+            "green": {
+              "Walk": "Walk.png"
+            },
+            "red": {
+              "Walk": "Walk.png"
+            }
+          },
+          "pregnant": {
+            "green": {
+              "Universal": "Universal.png"
+            }
+          }
+        },
+        "male": {
+          "adult": {
+            "green": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            },
+            "uruk": {
+              "": ".todo",
+              "Slash": "Slash.png",
+              "Walk": "Walk.png"
+            }
+          },
+          "child": {
+            "green": {
+              "Walk": "Walk.png"
+            },
+            "red": {
+              "Walk": "Walk.png"
+            }
+          }
+        }
+      },
+      "satyr": {
+        "male": {
+          "adult": {
+            "olive": {
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "skeleton": {
+        "female": {
+          "adult": {
+            "ivory": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
+        },
+        "male": {
+          "adult": {
+            "ivory": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
+        }
+      },
+      "wolfman": {
+        "female": {
+          "adult": {
+            "black": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "brown": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png",
+              "Walk2": "Walk2.png"
+            },
+            "chestnut": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "gold": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "gray": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "ivory": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          },
+          "pregnant": {
+            "brown": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
+        },
+        "male": {
+          "adult": {
+            "black": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "brown": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png",
+              "Walk2": "Walk2.png"
+            },
+            "chestnut": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "gold": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "gray": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "ivory": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
+        }
+      },
+      "zombie": {
+        "female": {
+          "adult": {
+            "gray": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
+        },
+        "male": {
+          "adult": {
+            "gray": {
+              "Attribution": "Attribution.txt",
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Idle": "Idle.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          }
         }
       }
     }
