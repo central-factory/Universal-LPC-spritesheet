@@ -1,0 +1,87 @@
+{
+  "dark_elf": {
+    "male": {
+      "adult": {
+        "lavender": "lavender.png",
+        "periwinkle": "periwinkle.png"
+      }
+    }
+  },
+  "human": {
+    "female": {
+      "adult": {
+        "black": "black.png",
+        "brown": "brown.png",
+        "light": "light.png",
+        "olive": "olive.png",
+        "peach": "peach.png",
+        "white": "white.png"
+      },
+      "child": {
+        "black": "black.png",
+        "brown": "brown.png",
+        "olive": "olive.png",
+        "peach": "peach.png",
+        "white": "white.png"
+      },
+      "pregnant": {
+        "white": "white.png"
+      }
+    },
+    "male": {
+      "adult": {
+        "black": "black.png",
+        "brown": "brown.png",
+        "light": "light.png",
+        "olive": "olive.png",
+        "peach": "peach.png",
+        "white": "white.png"
+      },
+      "child": {
+        "black": "black.png",
+        "brown": "brown.png",
+        "olive": "olive.png",
+        "peach": "peach.png",
+        "white": "white.png"
+      },
+      "muscular": {
+        "white": "white.png"
+      }
+    }
+  },
+  "minotaur": {
+    "male": {
+      "adult": {
+        "brown": "brown.png"
+      },
+      "muscular": {
+        "brown": "brown.png"
+      }
+    }
+  },
+  "orc": {
+    "female": {
+      "adult": {
+        "green": "green.png",
+        "red": "red.png"
+      },
+      "child": {
+        "green": "green.png",
+        "red": "red.png"
+      },
+      "pregnant": {
+        "green": "green.png"
+      }
+    },
+    "male": {
+      "adult": {
+        "green": "green.png",
+        "red": "red.png"
+      },
+      "child": {
+        "green": "green.png",
+        "red": "red.png"
+      }
+    }
+  }
+}

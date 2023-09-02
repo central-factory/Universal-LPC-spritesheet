@@ -1,0 +1,42 @@
+{
+  "female": {
+    "adult": {
+      "black": "black.png",
+      "brown": "brown.png",
+      "light": "light.png",
+      "olive": "olive.png",
+      "peach": "peach.png",
+      "white": "white.png"
+    },
+    "child": {
+      "black": "black.png",
+      "brown": "brown.png",
+      "olive": "olive.png",
+      "peach": "peach.png",
+      "white": "white.png"
+    },
+    "pregnant": {
+      "white": "white.png"
+    }
+  },
+  "male": {
+    "adult": {
+      "black": "black.png",
+      "brown": "brown.png",
+      "light": "light.png",
+      "olive": "olive.png",
+      "peach": "peach.png",
+      "white": "white.png"
+    },
+    "child": {
+      "black": "black.png",
+      "brown": "brown.png",
+      "olive": "olive.png",
+      "peach": "peach.png",
+      "white": "white.png"
+    },
+    "muscular": {
+      "white": "white.png"
+    }
+  }
+}

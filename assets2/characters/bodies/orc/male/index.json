@@ -1,0 +1,10 @@
+{
+  "adult": {
+    "green": "green.png",
+    "red": "red.png"
+  },
+  "child": {
+    "green": "green.png",
+    "red": "red.png"
+  }
+}
