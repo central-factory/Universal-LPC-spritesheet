@@ -1072,7 +1072,93 @@
           }
         }
       },
+      "back": {
+        "child": {
+          "lizard_tail": {
+            "blue": {
+              "Universal": "Universal.png",
+              "Universal_BG": "Universal_BG.png"
+            },
+            "forest": {
+              "Universal": "Universal.png",
+              "Universal_BG": "Universal_BG.png"
+            },
+            "green": {
+              "Universal": "Universal.png",
+              "Universal_BG": "Universal_BG.png"
+            }
+          },
+          "lizard_wings": {
+            "blue": {
+              "Universal": "Universal.png",
+              "Universal_BG": "Universal_BG.png"
+            },
+            "forest": {
+              "Universal": "Universal.png",
+              "Universal_BG": "Universal_BG.png"
+            },
+            "green": {
+              "Universal": "Universal.png",
+              "Universal_BG": "Universal_BG.png"
+            }
+          }
+        }
+      },
       "ears": {
+        "child": {
+          "ear": {
+            "copper": {
+              "Universal": "Universal.png"
+            },
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "ivory": {
+              "Universal": "Universal.png"
+            },
+            "lavender": {
+              "Universal": "Universal.png"
+            },
+            "periwinkle": {
+              "Universal": "Universal.png"
+            },
+            "sienna": {
+              "Universal": "Universal.png"
+            },
+            "tanned": {
+              "Universal": "Universal.png"
+            }
+          },
+          "long": {
+            "copper": {
+              "Universal": "Universal.png"
+            },
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "ivory": {
+              "Universal": "Universal.png"
+            },
+            "lavender": {
+              "Universal": "Universal.png"
+            },
+            "periwinkle": {
+              "Universal": "Universal.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            },
+            "sienna": {
+              "Universal": "Universal.png"
+            },
+            "tanned": {
+              "Universal": "Universal.png"
+            }
+          }
+        },
         "female": {
           "big": {
             "copper": {
@@ -7956,6 +8042,189 @@
       }
     },
     "clothes": {
+      "accessories": {
+        "male": {
+          "bowtie": {
+            "bowtie": {
+              "Universal": "Universal.png"
+            },
+            "necktie": {
+              "Universal": "Universal.png"
+            }
+          },
+          "cravat": {
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "bluegray": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "charcoal": {
+              "Universal": "Universal.png"
+            },
+            "forest": {
+              "Universal": "Universal.png"
+            },
+            "gray": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "lavender": {
+              "Universal": "Universal.png"
+            },
+            "leather": {
+              "Universal": "Universal.png"
+            },
+            "maroon": {
+              "Universal": "Universal.png"
+            },
+            "navy": {
+              "Universal": "Universal.png"
+            },
+            "orange": {
+              "Universal": "Universal.png"
+            },
+            "pink": {
+              "Universal": "Universal.png"
+            },
+            "purple": {
+              "Universal": "Universal.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            },
+            "rose": {
+              "Universal": "Universal.png"
+            },
+            "sky": {
+              "Universal": "Universal.png"
+            },
+            "slate": {
+              "Universal": "Universal.png"
+            },
+            "tan": {
+              "Universal": "Universal.png"
+            },
+            "teal": {
+              "Universal": "Universal.png"
+            },
+            "walnut": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            },
+            "yellow": {
+              "Universal": "Universal.png"
+            }
+          },
+          "earring": {
+            "gold": {
+              "Universal": "Universal.png"
+            }
+          },
+          "glasses": {
+            "glasses": {
+              "Universal": "Universal.png"
+            },
+            "monocle": {
+              "Universal": "Universal.png"
+            }
+          },
+          "hook": {
+            "steel": {
+              "Universal": "Universal.png"
+            }
+          },
+          "javot": {
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "bluegray": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "charcoal": {
+              "Universal": "Universal.png"
+            },
+            "forest": {
+              "Universal": "Universal.png"
+            },
+            "gray": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "lavender": {
+              "Universal": "Universal.png"
+            },
+            "leather": {
+              "Universal": "Universal.png"
+            },
+            "maroon": {
+              "Universal": "Universal.png"
+            },
+            "navy": {
+              "Universal": "Universal.png"
+            },
+            "orange": {
+              "Universal": "Universal.png"
+            },
+            "pink": {
+              "Universal": "Universal.png"
+            },
+            "purple": {
+              "Universal": "Universal.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            },
+            "rose": {
+              "Universal": "Universal.png"
+            },
+            "sky": {
+              "Universal": "Universal.png"
+            },
+            "slate": {
+              "Universal": "Universal.png"
+            },
+            "tan": {
+              "Universal": "Universal.png"
+            },
+            "teal": {
+              "Universal": "Universal.png"
+            },
+            "walnut": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            },
+            "yellow": {
+              "Universal": "Universal.png"
+            }
+          },
+          "peg_leg": {
+            "wood": {
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
       "arms": {
         "male": {
           "armor": {
@@ -8060,6 +8329,407 @@
               "purple": {
                 "Universal": "Universal.png"
               }
+            }
+          }
+        }
+      },
+      "belt": {
+        "male": {
+          "cloth": {
+            "white": {
+              "Universal": "Universal.png"
+            }
+          },
+          "double": {
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "charcoal": {
+              "Universal": "Universal.png"
+            },
+            "leather": {
+              "Universal": "Universal.png"
+            },
+            "slate": {
+              "Universal": "Universal.png"
+            },
+            "tan": {
+              "Universal": "Universal.png"
+            },
+            "walnut": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            }
+          },
+          "formal": {
+            "brown": {
+              "Universal": "Universal.png"
+            }
+          },
+          "leather": {
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "charcoal": {
+              "Universal": "Universal.png"
+            },
+            "leather": {
+              "Universal": "Universal.png"
+            },
+            "slate": {
+              "Universal": "Universal.png"
+            },
+            "tan": {
+              "Universal": "Universal.png"
+            },
+            "walnut": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            }
+          },
+          "leather_2": {
+            "brown": {
+              "Universal": "Universal.png"
+            }
+          },
+          "loose": {
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "charcoal": {
+              "Universal": "Universal.png"
+            },
+            "leather": {
+              "Universal": "Universal.png"
+            },
+            "slate": {
+              "Universal": "Universal.png"
+            },
+            "tan": {
+              "Universal": "Universal.png"
+            },
+            "walnut": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            }
+          },
+          "rope": {
+            "white": {
+              "Universal": "Universal.png"
+            }
+          },
+          "sash": {
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "bluegray": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "charcoal": {
+              "Universal": "Universal.png"
+            },
+            "forest": {
+              "Universal": "Universal.png"
+            },
+            "gray": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "lavender": {
+              "Universal": "Universal.png"
+            },
+            "leather": {
+              "Universal": "Universal.png"
+            },
+            "maroon": {
+              "Universal": "Universal.png"
+            },
+            "navy": {
+              "Universal": "Universal.png"
+            },
+            "orange": {
+              "Universal": "Universal.png"
+            },
+            "pink": {
+              "Universal": "Universal.png"
+            },
+            "purple": {
+              "Universal": "Universal.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            },
+            "rose": {
+              "Universal": "Universal.png"
+            },
+            "sky": {
+              "Universal": "Universal.png"
+            },
+            "slate": {
+              "Universal": "Universal.png"
+            },
+            "tan": {
+              "Universal": "Universal.png"
+            },
+            "teal": {
+              "Universal": "Universal.png"
+            },
+            "walnut": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            },
+            "yellow": {
+              "Universal": "Universal.png"
+            }
+          },
+          "sash_narrow": {
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "bluegray": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "charcoal": {
+              "Universal": "Universal.png"
+            },
+            "forest": {
+              "Universal": "Universal.png"
+            },
+            "gray": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "lavender": {
+              "Universal": "Universal.png"
+            },
+            "leather": {
+              "Universal": "Universal.png"
+            },
+            "maroon": {
+              "Universal": "Universal.png"
+            },
+            "navy": {
+              "Universal": "Universal.png"
+            },
+            "orange": {
+              "Universal": "Universal.png"
+            },
+            "pink": {
+              "Universal": "Universal.png"
+            },
+            "purple": {
+              "Universal": "Universal.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            },
+            "rose": {
+              "Universal": "Universal.png"
+            },
+            "sky": {
+              "Universal": "Universal.png"
+            },
+            "slate": {
+              "Universal": "Universal.png"
+            },
+            "tan": {
+              "Universal": "Universal.png"
+            },
+            "teal": {
+              "Universal": "Universal.png"
+            },
+            "walnut": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            },
+            "yellow": {
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "feet": {
+        "male": {
+          "boots": {
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "steel": {
+              "Universal": "Universal.png"
+            }
+          },
+          "hoofs": {
+            "olive": {
+              "Universal": "Universal.png"
+            }
+          },
+          "sandals": {
+            "leather": {
+              "Universal": "Universal.png"
+            }
+          },
+          "shoes": {
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "maroon": {
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "hands": {
+        "male": {
+          "bracelets": {
+            "gold": {
+              "Universal": "Universal.png"
+            }
+          },
+          "bracers": {
+            "leather": {
+              "Universal": "Universal.png"
+            }
+          },
+          "cuffs": {
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "bluegray": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "charcoal": {
+              "Universal": "Universal.png"
+            },
+            "forest": {
+              "Universal": "Universal.png"
+            },
+            "gray": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "lavender": {
+              "Universal": "Universal.png"
+            },
+            "leather": {
+              "Universal": "Universal.png"
+            },
+            "maroon": {
+              "Universal": "Universal.png"
+            },
+            "navy": {
+              "Universal": "Universal.png"
+            },
+            "orange": {
+              "Universal": "Universal.png"
+            },
+            "pink": {
+              "Universal": "Universal.png"
+            },
+            "purple": {
+              "Universal": "Universal.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            },
+            "rose": {
+              "Universal": "Universal.png"
+            },
+            "sky": {
+              "Universal": "Universal.png"
+            },
+            "slate": {
+              "Universal": "Universal.png"
+            },
+            "tan": {
+              "Universal": "Universal.png"
+            },
+            "teal": {
+              "Universal": "Universal.png"
+            },
+            "walnut": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            },
+            "yellow": {
+              "Universal": "Universal.png"
+            }
+          },
+          "gloves": {
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "steel": {
+              "Universal": "Universal.png"
+            }
+          },
+          "laces": {
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "bronze": {
+              "Universal": "Universal.png"
+            },
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "red": {
+              "Universal": "Universal.png"
+            },
+            "silver": {
+              "Universal": "Universal.png"
+            },
+            "teal": {
+              "Universal": "Universal.png"
+            },
+            "yellow": {
+              "Universal": "Universal.png"
+            }
+          },
+          "rag": {
+            "left_arm": {
+              "Universal": "Universal.png"
+            },
+            "right_arm": {
+              "Universal": "Universal.png"
             }
           }
         }
@@ -13047,6 +13717,329 @@
               }
             }
           }
+        }
+      }
+    },
+    "hands": {
+      "bothHands": {
+        "male": {
+          "crossbow": {
+            "wood": {
+              "Universal": "Universal.png"
+            }
+          },
+          "hammer": {
+            "iron": {
+              "Universal": "Universal.png"
+            }
+          },
+          "spear": {
+            "dragon": {
+              "Universal": "Universal.png"
+            },
+            "long": {
+              "Universal": "Universal.png"
+            },
+            "trident": {
+              "Universal": "Universal.png"
+            },
+            "wood": {
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "leftHand": {
+        "male": {
+          "arrow": {
+            "arrow": {
+              "Universal": "Universal.png"
+            },
+            "skeleton": {
+              "Universal": "Universal.png"
+            }
+          },
+          "shield": {
+            "1": {
+              "Universal": "Universal.png"
+            },
+            "2": {
+              "Universal": "Universal.png"
+            },
+            "base": {
+              "3": "3.png",
+              "4": "4.png",
+              "5": "5.png",
+              "6": "6.png",
+              "7": "7.png",
+              "8": "8.png",
+              "9": "9.png",
+              "10": "10.png",
+              "11": "11.png",
+              "12": "12.png",
+              "13": "13.png",
+              "14": "14.png",
+              "2b0": "2b0.png",
+              "2b1": "2b1.png",
+              "2b2": "2b2.png",
+              "2b3": "2b3.png",
+              "2d0": "2d0.png",
+              "2d1": "2d1.png",
+              "2d2": "2d2.png",
+              "2d3": "2d3.png",
+              "2f0": "2f0.png",
+              "2f1": "2f1.png",
+              "2f2": "2f2.png",
+              "shield": "shield.png",
+              "shield_2": "shield_2.png",
+              "_1": "_1.png"
+            },
+            "crusader": {
+              "Universal": "Universal.png"
+            },
+            "kite": {
+              "Universal": "Universal.png"
+            },
+            "spartan": {
+              "Universal": "Universal.png"
+            }
+          },
+          "shovel": {
+            "iron": {
+              "Universal": "Universal.png"
+            }
+          },
+          "spear": {
+            "iron": {
+              "Universal": "Universal.png"
+            }
+          },
+          "straps": {
+            "leather": {
+              "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "rightHand": {
+        "male": {
+          "axe": {
+            "axe": {
+              "Universal": "Universal.png"
+            },
+            "Hurt": {
+              "Universal": "Universal.png"
+            },
+            "labrys": {
+              "Universal": "Universal.png"
+            },
+            "pickaxe": {
+              "Universal": "Universal.png"
+            },
+            "Slash": {
+              "Universal": "Universal.png"
+            },
+            "Walk": {
+              "Universal": "Universal.png"
+            },
+            "war_axe": {
+              "Universal": "Universal.png"
+            }
+          },
+          "big_sword": {
+            "": ".todo",
+            "base": {
+              "1": "1.png",
+              "2": "2.png",
+              "3": "3.png",
+              "4": "4.png",
+              "5": "5.png",
+              "6": "6.png",
+              "7": "7.png",
+              "8": "8.png",
+              "9": "9.png",
+              "10": "10.png",
+              "11": "11.png",
+              "12": "12.png",
+              "13": "13.png",
+              "14": "14.png",
+              "15": "15.png",
+              "16": "16.png",
+              "17": "17.png",
+              "18": "18.png",
+              "19": "19.png",
+              "20": "20.png",
+              "21": "21.png",
+              "22": "22.png",
+              "23": "23.png",
+              "24": "24.png",
+              "25": "25.png",
+              "26": "26.png",
+              "27": "27.png"
+            }
+          },
+          "bow": {
+            "1": {
+              "Universal": "Universal.png"
+            },
+            "2": {
+              "Universal": "Universal.png"
+            },
+            "3": {
+              "Universal": "Universal.png"
+            },
+            "arrow": {
+              "Universal": "Universal.png"
+            },
+            "bow": {
+              "Universal": "Universal.png"
+            },
+            "bow_skeleton": {
+              "Universal": "Universal.png"
+            },
+            "greatbow": {
+              "Universal": "Universal.png"
+            },
+            "recurvebow": {
+              "Universal": "Universal.png"
+            }
+          },
+          "dagger": {
+            "dagger": {
+              "Universal": "Universal.png"
+            },
+            "dagger_2": {
+              "Universal": "Universal.png"
+            }
+          },
+          "flail": {
+            "flail": {
+              "Universal": "Universal.png"
+            },
+            "Hurt": {
+              "Universal": "Universal.png"
+            },
+            "Slash": {
+              "Universal": "Universal.png"
+            },
+            "Walk": {
+              "Universal": "Universal.png"
+            }
+          },
+          "halberd": {
+            "halberd": {
+              "Universal": "Universal.png"
+            },
+            "Hurt": {
+              "Universal": "Universal.png"
+            },
+            "Slash": {
+              "Universal": "Universal.png"
+            },
+            "Thrust": {
+              "Universal": "Universal.png"
+            },
+            "Walk": {
+              "Universal": "Universal.png"
+            }
+          },
+          "hammer": {
+            "warhammer": {
+              "Universal": "Universal.png"
+            },
+            "warhammer copy": {
+              "Universal": "Universal.png"
+            }
+          },
+          "mace": {
+            "mace": {
+              "Universal": "Universal.png"
+            },
+            "mace_2": {
+              "Universal": "Universal.png"
+            }
+          },
+          "rifle": {
+            "formal_rifle": {
+              "Universal": "Universal.png"
+            }
+          },
+          "spear": {
+            "1": {
+              "Universal": "Universal.png"
+            },
+            "dragon": {
+              "Universal": "Universal.png"
+            },
+            "iron": {
+              "Universal": "Universal.png"
+            },
+            "scythe": {
+              "Universal": "Universal.png"
+            },
+            "spear": {
+              "Universal": "Universal.png"
+            },
+            "trident": {
+              "Universal": "Universal.png"
+            }
+          },
+          "staff": {
+            "2": {
+              "Universal": "Universal.png"
+            },
+            "formal_cane": {
+              "Universal": "Universal.png"
+            },
+            "staff": {
+              "Universal": "Universal.png"
+            },
+            "steelwand": {
+              "Universal": "Universal.png"
+            },
+            "woodwand": {
+              "Universal": "Universal.png"
+            }
+          },
+          "sword": {
+            "1": {
+              "Universal": "Universal.png"
+            },
+            "2": {
+              "Universal": "Universal.png"
+            },
+            "3": {
+              "Universal": "Universal.png"
+            },
+            "4": {
+              "Universal": "Universal.png"
+            },
+            "glowsword_blue": {
+              "Universal": "Universal.png"
+            },
+            "glowsword_red": {
+              "Universal": "Universal.png"
+            },
+            "longsword": {
+              "Universal": "Universal.png"
+            },
+            "rapier": {
+              "Universal": "Universal.png"
+            },
+            "saber": {
+              "Universal": "Universal.png"
+            },
+            "sabre_sheet": {
+              "Universal": "Universal.png"
+            },
+            "sword": {
+              "Universal": "Universal.png"
+            },
+            "sword_sheet_128": {
+              "Universal": "Universal.png"
+            }
+          },
+          "thrust": {}
         }
       }
     },
