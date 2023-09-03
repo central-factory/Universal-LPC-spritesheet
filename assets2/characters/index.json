@@ -8091,6 +8091,3120 @@
           }
         },
         "male": {
+          "bandana": {
+            "bandana": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bandana_skull": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "cap": {
+            "baseball": {
+              "white": {
+                "Universal": "Universal.png"
+              }
+            },
+            "leather": {
+              "brown": {
+                "Universal": "Universal.png"
+              }
+            },
+            "peaked": {
+              "white": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "crest": {
+            "crest": {
+              "brass": {
+                "Universal": "Universal.png"
+              },
+              "bronze": {
+                "Universal": "Universal.png"
+              },
+              "ceramic": {
+                "Universal": "Universal.png"
+              },
+              "copper": {
+                "Universal": "Universal.png"
+              },
+              "gold": {
+                "Universal": "Universal.png"
+              },
+              "iron": {
+                "Universal": "Universal.png"
+              },
+              "silver": {
+                "Universal": "Universal.png"
+              },
+              "steel": {
+                "Universal": "Universal.png"
+              }
+            },
+            "crest_centurion": {
+              "brass": {
+                "Universal": "Universal.png"
+              },
+              "bronze": {
+                "Universal": "Universal.png"
+              },
+              "ceramic": {
+                "Universal": "Universal.png"
+              },
+              "copper": {
+                "Universal": "Universal.png"
+              },
+              "gold": {
+                "Universal": "Universal.png"
+              },
+              "iron": {
+                "Universal": "Universal.png"
+              },
+              "silver": {
+                "Universal": "Universal.png"
+              },
+              "steel": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "crown": {
+            "king": {
+              "fire": {
+                "Universal": "Universal.png"
+              },
+              "gold": {
+                "Universal": "Universal.png"
+              },
+              "iron": {
+                "Universal": "Universal.png"
+              },
+              "water": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "hat": {
+            "bicorne_athwart": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bicorne_athwart_admiral": {
+              "black_bronze": {
+                "Universal": "Universal.png"
+              },
+              "black_gold": {
+                "Universal": "Universal.png"
+              },
+              "black_silver": {
+                "Universal": "Universal.png"
+              },
+              "black_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "blue_bronze": {
+                "Universal": "Universal.png"
+              },
+              "blue_gold": {
+                "Universal": "Universal.png"
+              },
+              "blue_silver": {
+                "Universal": "Universal.png"
+              },
+              "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "brown_bronze": {
+                "Universal": "Universal.png"
+              },
+              "brown_gold": {
+                "Universal": "Universal.png"
+              },
+              "brown_silver": {
+                "Universal": "Universal.png"
+              },
+              "brown_yellow": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_gold": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_silver": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "forest_bronze": {
+                "Universal": "Universal.png"
+              },
+              "forest_gold": {
+                "Universal": "Universal.png"
+              },
+              "forest_silver": {
+                "Universal": "Universal.png"
+              },
+              "forest_yellow": {
+                "Universal": "Universal.png"
+              },
+              "gray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "gray_gold": {
+                "Universal": "Universal.png"
+              },
+              "gray_silver": {
+                "Universal": "Universal.png"
+              },
+              "gray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "green_bronze": {
+                "Universal": "Universal.png"
+              },
+              "green_gold": {
+                "Universal": "Universal.png"
+              },
+              "green_silver": {
+                "Universal": "Universal.png"
+              },
+              "green_yellow": {
+                "Universal": "Universal.png"
+              },
+              "lavender_bronze": {
+                "Universal": "Universal.png"
+              },
+              "lavender_gold": {
+                "Universal": "Universal.png"
+              },
+              "lavender_silver": {
+                "Universal": "Universal.png"
+              },
+              "lavender_yellow": {
+                "Universal": "Universal.png"
+              },
+              "leather_bronze": {
+                "Universal": "Universal.png"
+              },
+              "leather_gold": {
+                "Universal": "Universal.png"
+              },
+              "leather_silver": {
+                "Universal": "Universal.png"
+              },
+              "leather_yellow": {
+                "Universal": "Universal.png"
+              },
+              "maroon_bronze": {
+                "Universal": "Universal.png"
+              },
+              "maroon_gold": {
+                "Universal": "Universal.png"
+              },
+              "maroon_silver": {
+                "Universal": "Universal.png"
+              },
+              "maroon_yellow": {
+                "Universal": "Universal.png"
+              },
+              "navy_bronze": {
+                "Universal": "Universal.png"
+              },
+              "navy_gold": {
+                "Universal": "Universal.png"
+              },
+              "navy_silver": {
+                "Universal": "Universal.png"
+              },
+              "navy_yellow": {
+                "Universal": "Universal.png"
+              },
+              "orange_bronze": {
+                "Universal": "Universal.png"
+              },
+              "orange_gold": {
+                "Universal": "Universal.png"
+              },
+              "orange_silver": {
+                "Universal": "Universal.png"
+              },
+              "orange_yellow": {
+                "Universal": "Universal.png"
+              },
+              "pink_bronze": {
+                "Universal": "Universal.png"
+              },
+              "pink_gold": {
+                "Universal": "Universal.png"
+              },
+              "pink_silver": {
+                "Universal": "Universal.png"
+              },
+              "pink_yellow": {
+                "Universal": "Universal.png"
+              },
+              "purple_bronze": {
+                "Universal": "Universal.png"
+              },
+              "purple_gold": {
+                "Universal": "Universal.png"
+              },
+              "purple_silver": {
+                "Universal": "Universal.png"
+              },
+              "purple_yellow": {
+                "Universal": "Universal.png"
+              },
+              "red_bronze": {
+                "Universal": "Universal.png"
+              },
+              "red_gold": {
+                "Universal": "Universal.png"
+              },
+              "red_silver": {
+                "Universal": "Universal.png"
+              },
+              "red_yellow": {
+                "Universal": "Universal.png"
+              },
+              "rose_bronze": {
+                "Universal": "Universal.png"
+              },
+              "rose_gold": {
+                "Universal": "Universal.png"
+              },
+              "rose_silver": {
+                "Universal": "Universal.png"
+              },
+              "rose_yellow": {
+                "Universal": "Universal.png"
+              },
+              "sky_bronze": {
+                "Universal": "Universal.png"
+              },
+              "sky_gold": {
+                "Universal": "Universal.png"
+              },
+              "sky_silver": {
+                "Universal": "Universal.png"
+              },
+              "sky_yellow": {
+                "Universal": "Universal.png"
+              },
+              "slate_bronze": {
+                "Universal": "Universal.png"
+              },
+              "slate_gold": {
+                "Universal": "Universal.png"
+              },
+              "slate_silver": {
+                "Universal": "Universal.png"
+              },
+              "slate_yellow": {
+                "Universal": "Universal.png"
+              },
+              "tan_bronze": {
+                "Universal": "Universal.png"
+              },
+              "tan_gold": {
+                "Universal": "Universal.png"
+              },
+              "tan_silver": {
+                "Universal": "Universal.png"
+              },
+              "tan_yellow": {
+                "Universal": "Universal.png"
+              },
+              "teal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "teal_gold": {
+                "Universal": "Universal.png"
+              },
+              "teal_silver": {
+                "Universal": "Universal.png"
+              },
+              "teal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "walnut_bronze": {
+                "Universal": "Universal.png"
+              },
+              "walnut_gold": {
+                "Universal": "Universal.png"
+              },
+              "walnut_silver": {
+                "Universal": "Universal.png"
+              },
+              "walnut_yellow": {
+                "Universal": "Universal.png"
+              },
+              "white_bronze": {
+                "Universal": "Universal.png"
+              },
+              "white_gold": {
+                "Universal": "Universal.png"
+              },
+              "white_silver": {
+                "Universal": "Universal.png"
+              },
+              "white_yellow": {
+                "Universal": "Universal.png"
+              },
+              "yellow_bronze": {
+                "Universal": "Universal.png"
+              },
+              "yellow_gold": {
+                "Universal": "Universal.png"
+              },
+              "yellow_silver": {
+                "Universal": "Universal.png"
+              },
+              "yellow_yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bicorne_athwart_admiral_cockade": {
+              "black_bronze": {
+                "Universal": "Universal.png"
+              },
+              "black_gold": {
+                "Universal": "Universal.png"
+              },
+              "black_silver": {
+                "Universal": "Universal.png"
+              },
+              "black_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "blue_bronze": {
+                "Universal": "Universal.png"
+              },
+              "blue_gold": {
+                "Universal": "Universal.png"
+              },
+              "blue_silver": {
+                "Universal": "Universal.png"
+              },
+              "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "brown_bronze": {
+                "Universal": "Universal.png"
+              },
+              "brown_gold": {
+                "Universal": "Universal.png"
+              },
+              "brown_silver": {
+                "Universal": "Universal.png"
+              },
+              "brown_yellow": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_gold": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_silver": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "forest_bronze": {
+                "Universal": "Universal.png"
+              },
+              "forest_gold": {
+                "Universal": "Universal.png"
+              },
+              "forest_silver": {
+                "Universal": "Universal.png"
+              },
+              "forest_yellow": {
+                "Universal": "Universal.png"
+              },
+              "gray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "gray_gold": {
+                "Universal": "Universal.png"
+              },
+              "gray_silver": {
+                "Universal": "Universal.png"
+              },
+              "gray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "green_bronze": {
+                "Universal": "Universal.png"
+              },
+              "green_gold": {
+                "Universal": "Universal.png"
+              },
+              "green_silver": {
+                "Universal": "Universal.png"
+              },
+              "green_yellow": {
+                "Universal": "Universal.png"
+              },
+              "lavender_bronze": {
+                "Universal": "Universal.png"
+              },
+              "lavender_gold": {
+                "Universal": "Universal.png"
+              },
+              "lavender_silver": {
+                "Universal": "Universal.png"
+              },
+              "lavender_yellow": {
+                "Universal": "Universal.png"
+              },
+              "leather_bronze": {
+                "Universal": "Universal.png"
+              },
+              "leather_gold": {
+                "Universal": "Universal.png"
+              },
+              "leather_silver": {
+                "Universal": "Universal.png"
+              },
+              "leather_yellow": {
+                "Universal": "Universal.png"
+              },
+              "maroon_bronze": {
+                "Universal": "Universal.png"
+              },
+              "maroon_gold": {
+                "Universal": "Universal.png"
+              },
+              "maroon_silver": {
+                "Universal": "Universal.png"
+              },
+              "maroon_yellow": {
+                "Universal": "Universal.png"
+              },
+              "navy_bronze": {
+                "Universal": "Universal.png"
+              },
+              "navy_gold": {
+                "Universal": "Universal.png"
+              },
+              "navy_silver": {
+                "Universal": "Universal.png"
+              },
+              "navy_yellow": {
+                "Universal": "Universal.png"
+              },
+              "orange_bronze": {
+                "Universal": "Universal.png"
+              },
+              "orange_gold": {
+                "Universal": "Universal.png"
+              },
+              "orange_silver": {
+                "Universal": "Universal.png"
+              },
+              "orange_yellow": {
+                "Universal": "Universal.png"
+              },
+              "pink_bronze": {
+                "Universal": "Universal.png"
+              },
+              "pink_gold": {
+                "Universal": "Universal.png"
+              },
+              "pink_silver": {
+                "Universal": "Universal.png"
+              },
+              "pink_yellow": {
+                "Universal": "Universal.png"
+              },
+              "purple_bronze": {
+                "Universal": "Universal.png"
+              },
+              "purple_gold": {
+                "Universal": "Universal.png"
+              },
+              "purple_silver": {
+                "Universal": "Universal.png"
+              },
+              "purple_yellow": {
+                "Universal": "Universal.png"
+              },
+              "red_bronze": {
+                "Universal": "Universal.png"
+              },
+              "red_gold": {
+                "Universal": "Universal.png"
+              },
+              "red_silver": {
+                "Universal": "Universal.png"
+              },
+              "red_yellow": {
+                "Universal": "Universal.png"
+              },
+              "rose_bronze": {
+                "Universal": "Universal.png"
+              },
+              "rose_gold": {
+                "Universal": "Universal.png"
+              },
+              "rose_silver": {
+                "Universal": "Universal.png"
+              },
+              "rose_yellow": {
+                "Universal": "Universal.png"
+              },
+              "sky_bronze": {
+                "Universal": "Universal.png"
+              },
+              "sky_gold": {
+                "Universal": "Universal.png"
+              },
+              "sky_silver": {
+                "Universal": "Universal.png"
+              },
+              "sky_yellow": {
+                "Universal": "Universal.png"
+              },
+              "slate_bronze": {
+                "Universal": "Universal.png"
+              },
+              "slate_gold": {
+                "Universal": "Universal.png"
+              },
+              "slate_silver": {
+                "Universal": "Universal.png"
+              },
+              "slate_yellow": {
+                "Universal": "Universal.png"
+              },
+              "tan_bronze": {
+                "Universal": "Universal.png"
+              },
+              "tan_gold": {
+                "Universal": "Universal.png"
+              },
+              "tan_silver": {
+                "Universal": "Universal.png"
+              },
+              "tan_yellow": {
+                "Universal": "Universal.png"
+              },
+              "teal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "teal_gold": {
+                "Universal": "Universal.png"
+              },
+              "teal_silver": {
+                "Universal": "Universal.png"
+              },
+              "teal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "walnut_bronze": {
+                "Universal": "Universal.png"
+              },
+              "walnut_gold": {
+                "Universal": "Universal.png"
+              },
+              "walnut_silver": {
+                "Universal": "Universal.png"
+              },
+              "walnut_yellow": {
+                "Universal": "Universal.png"
+              },
+              "white_bronze": {
+                "Universal": "Universal.png"
+              },
+              "white_gold": {
+                "Universal": "Universal.png"
+              },
+              "white_silver": {
+                "Universal": "Universal.png"
+              },
+              "white_yellow": {
+                "Universal": "Universal.png"
+              },
+              "yellow_bronze": {
+                "Universal": "Universal.png"
+              },
+              "yellow_gold": {
+                "Universal": "Universal.png"
+              },
+              "yellow_silver": {
+                "Universal": "Universal.png"
+              },
+              "yellow_yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bicorne_athwart_commodore": {
+              "black_bronze": {
+                "Universal": "Universal.png"
+              },
+              "black_gold": {
+                "Universal": "Universal.png"
+              },
+              "black_silver": {
+                "Universal": "Universal.png"
+              },
+              "black_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "blue_bronze": {
+                "Universal": "Universal.png"
+              },
+              "blue_gold": {
+                "Universal": "Universal.png"
+              },
+              "blue_silver": {
+                "Universal": "Universal.png"
+              },
+              "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "brown_bronze": {
+                "Universal": "Universal.png"
+              },
+              "brown_gold": {
+                "Universal": "Universal.png"
+              },
+              "brown_silver": {
+                "Universal": "Universal.png"
+              },
+              "brown_yellow": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_gold": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_silver": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "forest_bronze": {
+                "Universal": "Universal.png"
+              },
+              "forest_gold": {
+                "Universal": "Universal.png"
+              },
+              "forest_silver": {
+                "Universal": "Universal.png"
+              },
+              "forest_yellow": {
+                "Universal": "Universal.png"
+              },
+              "gray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "gray_gold": {
+                "Universal": "Universal.png"
+              },
+              "gray_silver": {
+                "Universal": "Universal.png"
+              },
+              "gray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "green_bronze": {
+                "Universal": "Universal.png"
+              },
+              "green_gold": {
+                "Universal": "Universal.png"
+              },
+              "green_silver": {
+                "Universal": "Universal.png"
+              },
+              "green_yellow": {
+                "Universal": "Universal.png"
+              },
+              "lavender_bronze": {
+                "Universal": "Universal.png"
+              },
+              "lavender_gold": {
+                "Universal": "Universal.png"
+              },
+              "lavender_silver": {
+                "Universal": "Universal.png"
+              },
+              "lavender_yellow": {
+                "Universal": "Universal.png"
+              },
+              "leather_bronze": {
+                "Universal": "Universal.png"
+              },
+              "leather_gold": {
+                "Universal": "Universal.png"
+              },
+              "leather_silver": {
+                "Universal": "Universal.png"
+              },
+              "leather_yellow": {
+                "Universal": "Universal.png"
+              },
+              "maroon_bronze": {
+                "Universal": "Universal.png"
+              },
+              "maroon_gold": {
+                "Universal": "Universal.png"
+              },
+              "maroon_silver": {
+                "Universal": "Universal.png"
+              },
+              "maroon_yellow": {
+                "Universal": "Universal.png"
+              },
+              "navy_bronze": {
+                "Universal": "Universal.png"
+              },
+              "navy_gold": {
+                "Universal": "Universal.png"
+              },
+              "navy_silver": {
+                "Universal": "Universal.png"
+              },
+              "navy_yellow": {
+                "Universal": "Universal.png"
+              },
+              "orange_bronze": {
+                "Universal": "Universal.png"
+              },
+              "orange_gold": {
+                "Universal": "Universal.png"
+              },
+              "orange_silver": {
+                "Universal": "Universal.png"
+              },
+              "orange_yellow": {
+                "Universal": "Universal.png"
+              },
+              "pink_bronze": {
+                "Universal": "Universal.png"
+              },
+              "pink_gold": {
+                "Universal": "Universal.png"
+              },
+              "pink_silver": {
+                "Universal": "Universal.png"
+              },
+              "pink_yellow": {
+                "Universal": "Universal.png"
+              },
+              "purple_bronze": {
+                "Universal": "Universal.png"
+              },
+              "purple_gold": {
+                "Universal": "Universal.png"
+              },
+              "purple_silver": {
+                "Universal": "Universal.png"
+              },
+              "purple_yellow": {
+                "Universal": "Universal.png"
+              },
+              "red_bronze": {
+                "Universal": "Universal.png"
+              },
+              "red_gold": {
+                "Universal": "Universal.png"
+              },
+              "red_silver": {
+                "Universal": "Universal.png"
+              },
+              "red_yellow": {
+                "Universal": "Universal.png"
+              },
+              "rose_bronze": {
+                "Universal": "Universal.png"
+              },
+              "rose_gold": {
+                "Universal": "Universal.png"
+              },
+              "rose_silver": {
+                "Universal": "Universal.png"
+              },
+              "rose_yellow": {
+                "Universal": "Universal.png"
+              },
+              "sky_bronze": {
+                "Universal": "Universal.png"
+              },
+              "sky_gold": {
+                "Universal": "Universal.png"
+              },
+              "sky_silver": {
+                "Universal": "Universal.png"
+              },
+              "sky_yellow": {
+                "Universal": "Universal.png"
+              },
+              "slate_bronze": {
+                "Universal": "Universal.png"
+              },
+              "slate_gold": {
+                "Universal": "Universal.png"
+              },
+              "slate_silver": {
+                "Universal": "Universal.png"
+              },
+              "slate_yellow": {
+                "Universal": "Universal.png"
+              },
+              "tan_bronze": {
+                "Universal": "Universal.png"
+              },
+              "tan_gold": {
+                "Universal": "Universal.png"
+              },
+              "tan_silver": {
+                "Universal": "Universal.png"
+              },
+              "tan_yellow": {
+                "Universal": "Universal.png"
+              },
+              "teal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "teal_gold": {
+                "Universal": "Universal.png"
+              },
+              "teal_silver": {
+                "Universal": "Universal.png"
+              },
+              "teal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "walnut_bronze": {
+                "Universal": "Universal.png"
+              },
+              "walnut_gold": {
+                "Universal": "Universal.png"
+              },
+              "walnut_silver": {
+                "Universal": "Universal.png"
+              },
+              "walnut_yellow": {
+                "Universal": "Universal.png"
+              },
+              "white_bronze": {
+                "Universal": "Universal.png"
+              },
+              "white_gold": {
+                "Universal": "Universal.png"
+              },
+              "white_silver": {
+                "Universal": "Universal.png"
+              },
+              "white_yellow": {
+                "Universal": "Universal.png"
+              },
+              "yellow_bronze": {
+                "Universal": "Universal.png"
+              },
+              "yellow_gold": {
+                "Universal": "Universal.png"
+              },
+              "yellow_silver": {
+                "Universal": "Universal.png"
+              },
+              "yellow_yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bicorne_athwart_pirate": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bicorne_foreaft": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bicorne_foreaft_commodore": {
+              "black_bronze": {
+                "Universal": "Universal.png"
+              },
+              "black_gold": {
+                "Universal": "Universal.png"
+              },
+              "black_silver": {
+                "Universal": "Universal.png"
+              },
+              "black_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "blue_bronze": {
+                "Universal": "Universal.png"
+              },
+              "blue_gold": {
+                "Universal": "Universal.png"
+              },
+              "blue_silver": {
+                "Universal": "Universal.png"
+              },
+              "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "brown_bronze": {
+                "Universal": "Universal.png"
+              },
+              "brown_gold": {
+                "Universal": "Universal.png"
+              },
+              "brown_silver": {
+                "Universal": "Universal.png"
+              },
+              "brown_yellow": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_gold": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_silver": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "forest_bronze": {
+                "Universal": "Universal.png"
+              },
+              "forest_gold": {
+                "Universal": "Universal.png"
+              },
+              "forest_silver": {
+                "Universal": "Universal.png"
+              },
+              "forest_yellow": {
+                "Universal": "Universal.png"
+              },
+              "gray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "gray_gold": {
+                "Universal": "Universal.png"
+              },
+              "gray_silver": {
+                "Universal": "Universal.png"
+              },
+              "gray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "green_bronze": {
+                "Universal": "Universal.png"
+              },
+              "green_gold": {
+                "Universal": "Universal.png"
+              },
+              "green_silver": {
+                "Universal": "Universal.png"
+              },
+              "green_yellow": {
+                "Universal": "Universal.png"
+              },
+              "lavender_bronze": {
+                "Universal": "Universal.png"
+              },
+              "lavender_gold": {
+                "Universal": "Universal.png"
+              },
+              "lavender_silver": {
+                "Universal": "Universal.png"
+              },
+              "lavender_yellow": {
+                "Universal": "Universal.png"
+              },
+              "leather_bronze": {
+                "Universal": "Universal.png"
+              },
+              "leather_gold": {
+                "Universal": "Universal.png"
+              },
+              "leather_silver": {
+                "Universal": "Universal.png"
+              },
+              "leather_yellow": {
+                "Universal": "Universal.png"
+              },
+              "maroon_bronze": {
+                "Universal": "Universal.png"
+              },
+              "maroon_gold": {
+                "Universal": "Universal.png"
+              },
+              "maroon_silver": {
+                "Universal": "Universal.png"
+              },
+              "maroon_yellow": {
+                "Universal": "Universal.png"
+              },
+              "navy_bronze": {
+                "Universal": "Universal.png"
+              },
+              "navy_gold": {
+                "Universal": "Universal.png"
+              },
+              "navy_silver": {
+                "Universal": "Universal.png"
+              },
+              "navy_yellow": {
+                "Universal": "Universal.png"
+              },
+              "orange_bronze": {
+                "Universal": "Universal.png"
+              },
+              "orange_gold": {
+                "Universal": "Universal.png"
+              },
+              "orange_silver": {
+                "Universal": "Universal.png"
+              },
+              "orange_yellow": {
+                "Universal": "Universal.png"
+              },
+              "pink_bronze": {
+                "Universal": "Universal.png"
+              },
+              "pink_gold": {
+                "Universal": "Universal.png"
+              },
+              "pink_silver": {
+                "Universal": "Universal.png"
+              },
+              "pink_yellow": {
+                "Universal": "Universal.png"
+              },
+              "purple_bronze": {
+                "Universal": "Universal.png"
+              },
+              "purple_gold": {
+                "Universal": "Universal.png"
+              },
+              "purple_silver": {
+                "Universal": "Universal.png"
+              },
+              "purple_yellow": {
+                "Universal": "Universal.png"
+              },
+              "red_bronze": {
+                "Universal": "Universal.png"
+              },
+              "red_gold": {
+                "Universal": "Universal.png"
+              },
+              "red_silver": {
+                "Universal": "Universal.png"
+              },
+              "red_yellow": {
+                "Universal": "Universal.png"
+              },
+              "rose_bronze": {
+                "Universal": "Universal.png"
+              },
+              "rose_gold": {
+                "Universal": "Universal.png"
+              },
+              "rose_silver": {
+                "Universal": "Universal.png"
+              },
+              "rose_yellow": {
+                "Universal": "Universal.png"
+              },
+              "sky_bronze": {
+                "Universal": "Universal.png"
+              },
+              "sky_gold": {
+                "Universal": "Universal.png"
+              },
+              "sky_silver": {
+                "Universal": "Universal.png"
+              },
+              "sky_yellow": {
+                "Universal": "Universal.png"
+              },
+              "slate_bronze": {
+                "Universal": "Universal.png"
+              },
+              "slate_gold": {
+                "Universal": "Universal.png"
+              },
+              "slate_silver": {
+                "Universal": "Universal.png"
+              },
+              "slate_yellow": {
+                "Universal": "Universal.png"
+              },
+              "tan_bronze": {
+                "Universal": "Universal.png"
+              },
+              "tan_gold": {
+                "Universal": "Universal.png"
+              },
+              "tan_silver": {
+                "Universal": "Universal.png"
+              },
+              "tan_yellow": {
+                "Universal": "Universal.png"
+              },
+              "teal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "teal_gold": {
+                "Universal": "Universal.png"
+              },
+              "teal_silver": {
+                "Universal": "Universal.png"
+              },
+              "teal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "walnut_bronze": {
+                "Universal": "Universal.png"
+              },
+              "walnut_gold": {
+                "Universal": "Universal.png"
+              },
+              "walnut_silver": {
+                "Universal": "Universal.png"
+              },
+              "walnut_yellow": {
+                "Universal": "Universal.png"
+              },
+              "white_bronze": {
+                "Universal": "Universal.png"
+              },
+              "white_gold": {
+                "Universal": "Universal.png"
+              },
+              "white_silver": {
+                "Universal": "Universal.png"
+              },
+              "white_yellow": {
+                "Universal": "Universal.png"
+              },
+              "yellow_bronze": {
+                "Universal": "Universal.png"
+              },
+              "yellow_gold": {
+                "Universal": "Universal.png"
+              },
+              "yellow_silver": {
+                "Universal": "Universal.png"
+              },
+              "yellow_yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bonnie": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bonnie_feather": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "bowler": {
+              "formal": {
+                "": ".todo",
+                "Universal": "Universal.png",
+                "Universal2": "Universal2.png"
+              }
+            },
+            "cavalier": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "cavalier_feather": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "tophat": {
+              "black": {
+                "": ".todo",
+                "Universal": "Universal.png",
+                "Universal2": "Universal2.png"
+              },
+              "brown": {
+                "": ".todo",
+                "Universal": "Universal.png",
+                "Universal2": "Universal2.png"
+              }
+            },
+            "tricorne": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "tricorne_captain": {
+              "black_bronze": {
+                "Universal": "Universal.png"
+              },
+              "black_gold": {
+                "Universal": "Universal.png"
+              },
+              "black_silver": {
+                "Universal": "Universal.png"
+              },
+              "black_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "blue_bronze": {
+                "Universal": "Universal.png"
+              },
+              "blue_gold": {
+                "Universal": "Universal.png"
+              },
+              "blue_silver": {
+                "Universal": "Universal.png"
+              },
+              "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "brown_bronze": {
+                "Universal": "Universal.png"
+              },
+              "brown_gold": {
+                "Universal": "Universal.png"
+              },
+              "brown_silver": {
+                "Universal": "Universal.png"
+              },
+              "brown_yellow": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_gold": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_silver": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "forest_bronze": {
+                "Universal": "Universal.png"
+              },
+              "forest_gold": {
+                "Universal": "Universal.png"
+              },
+              "forest_silver": {
+                "Universal": "Universal.png"
+              },
+              "forest_yellow": {
+                "Universal": "Universal.png"
+              },
+              "gray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "gray_gold": {
+                "Universal": "Universal.png"
+              },
+              "gray_silver": {
+                "Universal": "Universal.png"
+              },
+              "gray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "green_bronze": {
+                "Universal": "Universal.png"
+              },
+              "green_gold": {
+                "Universal": "Universal.png"
+              },
+              "green_silver": {
+                "Universal": "Universal.png"
+              },
+              "green_yellow": {
+                "Universal": "Universal.png"
+              },
+              "lavender_bronze": {
+                "Universal": "Universal.png"
+              },
+              "lavender_gold": {
+                "Universal": "Universal.png"
+              },
+              "lavender_silver": {
+                "Universal": "Universal.png"
+              },
+              "lavender_yellow": {
+                "Universal": "Universal.png"
+              },
+              "leather_bronze": {
+                "Universal": "Universal.png"
+              },
+              "leather_gold": {
+                "Universal": "Universal.png"
+              },
+              "leather_silver": {
+                "Universal": "Universal.png"
+              },
+              "leather_yellow": {
+                "Universal": "Universal.png"
+              },
+              "maroon_bronze": {
+                "Universal": "Universal.png"
+              },
+              "maroon_gold": {
+                "Universal": "Universal.png"
+              },
+              "maroon_silver": {
+                "Universal": "Universal.png"
+              },
+              "maroon_yellow": {
+                "Universal": "Universal.png"
+              },
+              "navy_bronze": {
+                "Universal": "Universal.png"
+              },
+              "navy_gold": {
+                "Universal": "Universal.png"
+              },
+              "navy_silver": {
+                "Universal": "Universal.png"
+              },
+              "navy_yellow": {
+                "Universal": "Universal.png"
+              },
+              "orange_bronze": {
+                "Universal": "Universal.png"
+              },
+              "orange_gold": {
+                "Universal": "Universal.png"
+              },
+              "orange_silver": {
+                "Universal": "Universal.png"
+              },
+              "orange_yellow": {
+                "Universal": "Universal.png"
+              },
+              "pink_bronze": {
+                "Universal": "Universal.png"
+              },
+              "pink_gold": {
+                "Universal": "Universal.png"
+              },
+              "pink_silver": {
+                "Universal": "Universal.png"
+              },
+              "pink_yellow": {
+                "Universal": "Universal.png"
+              },
+              "purple_bronze": {
+                "Universal": "Universal.png"
+              },
+              "purple_gold": {
+                "Universal": "Universal.png"
+              },
+              "purple_silver": {
+                "Universal": "Universal.png"
+              },
+              "purple_yellow": {
+                "Universal": "Universal.png"
+              },
+              "red_bronze": {
+                "Universal": "Universal.png"
+              },
+              "red_gold": {
+                "Universal": "Universal.png"
+              },
+              "red_silver": {
+                "Universal": "Universal.png"
+              },
+              "red_yellow": {
+                "Universal": "Universal.png"
+              },
+              "rose_bronze": {
+                "Universal": "Universal.png"
+              },
+              "rose_gold": {
+                "Universal": "Universal.png"
+              },
+              "rose_silver": {
+                "Universal": "Universal.png"
+              },
+              "rose_yellow": {
+                "Universal": "Universal.png"
+              },
+              "sky_bronze": {
+                "Universal": "Universal.png"
+              },
+              "sky_gold": {
+                "Universal": "Universal.png"
+              },
+              "sky_silver": {
+                "Universal": "Universal.png"
+              },
+              "sky_yellow": {
+                "Universal": "Universal.png"
+              },
+              "slate_bronze": {
+                "Universal": "Universal.png"
+              },
+              "slate_gold": {
+                "Universal": "Universal.png"
+              },
+              "slate_silver": {
+                "Universal": "Universal.png"
+              },
+              "slate_yellow": {
+                "Universal": "Universal.png"
+              },
+              "tan_bronze": {
+                "Universal": "Universal.png"
+              },
+              "tan_gold": {
+                "Universal": "Universal.png"
+              },
+              "tan_silver": {
+                "Universal": "Universal.png"
+              },
+              "tan_yellow": {
+                "Universal": "Universal.png"
+              },
+              "teal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "teal_gold": {
+                "Universal": "Universal.png"
+              },
+              "teal_silver": {
+                "Universal": "Universal.png"
+              },
+              "teal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "walnut_bronze": {
+                "Universal": "Universal.png"
+              },
+              "walnut_gold": {
+                "Universal": "Universal.png"
+              },
+              "walnut_silver": {
+                "Universal": "Universal.png"
+              },
+              "walnut_yellow": {
+                "Universal": "Universal.png"
+              },
+              "white_bronze": {
+                "Universal": "Universal.png"
+              },
+              "white_gold": {
+                "Universal": "Universal.png"
+              },
+              "white_silver": {
+                "Universal": "Universal.png"
+              },
+              "white_yellow": {
+                "Universal": "Universal.png"
+              },
+              "yellow_bronze": {
+                "Universal": "Universal.png"
+              },
+              "yellow_gold": {
+                "Universal": "Universal.png"
+              },
+              "yellow_silver": {
+                "Universal": "Universal.png"
+              },
+              "yellow_yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "tricorne_captain_pirate": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "tricorne_captain_pirate_skull": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "tricorne_lieutenant": {
+              "black_bronze": {
+                "Universal": "Universal.png"
+              },
+              "black_gold": {
+                "Universal": "Universal.png"
+              },
+              "black_silver": {
+                "Universal": "Universal.png"
+              },
+              "black_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "blue_bronze": {
+                "Universal": "Universal.png"
+              },
+              "blue_gold": {
+                "Universal": "Universal.png"
+              },
+              "blue_silver": {
+                "Universal": "Universal.png"
+              },
+              "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "brown_bronze": {
+                "Universal": "Universal.png"
+              },
+              "brown_gold": {
+                "Universal": "Universal.png"
+              },
+              "brown_silver": {
+                "Universal": "Universal.png"
+              },
+              "brown_yellow": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_gold": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_silver": {
+                "Universal": "Universal.png"
+              },
+              "charcoal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "forest_bronze": {
+                "Universal": "Universal.png"
+              },
+              "forest_gold": {
+                "Universal": "Universal.png"
+              },
+              "forest_silver": {
+                "Universal": "Universal.png"
+              },
+              "forest_yellow": {
+                "Universal": "Universal.png"
+              },
+              "gray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "gray_gold": {
+                "Universal": "Universal.png"
+              },
+              "gray_silver": {
+                "Universal": "Universal.png"
+              },
+              "gray_yellow": {
+                "Universal": "Universal.png"
+              },
+              "green_bronze": {
+                "Universal": "Universal.png"
+              },
+              "green_gold": {
+                "Universal": "Universal.png"
+              },
+              "green_silver": {
+                "Universal": "Universal.png"
+              },
+              "green_yellow": {
+                "Universal": "Universal.png"
+              },
+              "lavender_bronze": {
+                "Universal": "Universal.png"
+              },
+              "lavender_gold": {
+                "Universal": "Universal.png"
+              },
+              "lavender_silver": {
+                "Universal": "Universal.png"
+              },
+              "lavender_yellow": {
+                "Universal": "Universal.png"
+              },
+              "leather_bronze": {
+                "Universal": "Universal.png"
+              },
+              "leather_gold": {
+                "Universal": "Universal.png"
+              },
+              "leather_silver": {
+                "Universal": "Universal.png"
+              },
+              "leather_yellow": {
+                "Universal": "Universal.png"
+              },
+              "maroon_bronze": {
+                "Universal": "Universal.png"
+              },
+              "maroon_gold": {
+                "Universal": "Universal.png"
+              },
+              "maroon_silver": {
+                "Universal": "Universal.png"
+              },
+              "maroon_yellow": {
+                "Universal": "Universal.png"
+              },
+              "navy_bronze": {
+                "Universal": "Universal.png"
+              },
+              "navy_gold": {
+                "Universal": "Universal.png"
+              },
+              "navy_silver": {
+                "Universal": "Universal.png"
+              },
+              "navy_yellow": {
+                "Universal": "Universal.png"
+              },
+              "orange_bronze": {
+                "Universal": "Universal.png"
+              },
+              "orange_gold": {
+                "Universal": "Universal.png"
+              },
+              "orange_silver": {
+                "Universal": "Universal.png"
+              },
+              "orange_yellow": {
+                "Universal": "Universal.png"
+              },
+              "pink_bronze": {
+                "Universal": "Universal.png"
+              },
+              "pink_gold": {
+                "Universal": "Universal.png"
+              },
+              "pink_silver": {
+                "Universal": "Universal.png"
+              },
+              "pink_yellow": {
+                "Universal": "Universal.png"
+              },
+              "purple_bronze": {
+                "Universal": "Universal.png"
+              },
+              "purple_gold": {
+                "Universal": "Universal.png"
+              },
+              "purple_silver": {
+                "Universal": "Universal.png"
+              },
+              "purple_yellow": {
+                "Universal": "Universal.png"
+              },
+              "red_bronze": {
+                "Universal": "Universal.png"
+              },
+              "red_gold": {
+                "Universal": "Universal.png"
+              },
+              "red_silver": {
+                "Universal": "Universal.png"
+              },
+              "red_yellow": {
+                "Universal": "Universal.png"
+              },
+              "rose_bronze": {
+                "Universal": "Universal.png"
+              },
+              "rose_gold": {
+                "Universal": "Universal.png"
+              },
+              "rose_silver": {
+                "Universal": "Universal.png"
+              },
+              "rose_yellow": {
+                "Universal": "Universal.png"
+              },
+              "sky_bronze": {
+                "Universal": "Universal.png"
+              },
+              "sky_gold": {
+                "Universal": "Universal.png"
+              },
+              "sky_silver": {
+                "Universal": "Universal.png"
+              },
+              "sky_yellow": {
+                "Universal": "Universal.png"
+              },
+              "slate_bronze": {
+                "Universal": "Universal.png"
+              },
+              "slate_gold": {
+                "Universal": "Universal.png"
+              },
+              "slate_silver": {
+                "Universal": "Universal.png"
+              },
+              "slate_yellow": {
+                "Universal": "Universal.png"
+              },
+              "tan_bronze": {
+                "Universal": "Universal.png"
+              },
+              "tan_gold": {
+                "Universal": "Universal.png"
+              },
+              "tan_silver": {
+                "Universal": "Universal.png"
+              },
+              "tan_yellow": {
+                "Universal": "Universal.png"
+              },
+              "teal_bronze": {
+                "Universal": "Universal.png"
+              },
+              "teal_gold": {
+                "Universal": "Universal.png"
+              },
+              "teal_silver": {
+                "Universal": "Universal.png"
+              },
+              "teal_yellow": {
+                "Universal": "Universal.png"
+              },
+              "walnut_bronze": {
+                "Universal": "Universal.png"
+              },
+              "walnut_gold": {
+                "Universal": "Universal.png"
+              },
+              "walnut_silver": {
+                "Universal": "Universal.png"
+              },
+              "walnut_yellow": {
+                "Universal": "Universal.png"
+              },
+              "white_bronze": {
+                "Universal": "Universal.png"
+              },
+              "white_gold": {
+                "Universal": "Universal.png"
+              },
+              "white_silver": {
+                "Universal": "Universal.png"
+              },
+              "white_yellow": {
+                "Universal": "Universal.png"
+              },
+              "yellow_bronze": {
+                "Universal": "Universal.png"
+              },
+              "yellow_gold": {
+                "Universal": "Universal.png"
+              },
+              "yellow_silver": {
+                "Universal": "Universal.png"
+              },
+              "yellow_yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "tricorne_stitched": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "tricorne_thatch": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "wizard": {
+              "brown": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "head": {
+            "boarman": {
+              "brown": {
+                "Cast": "Cast.png",
+                "Hurt": "Hurt.png",
+                "Slash": "Slash.png",
+                "Thrust": "Thrust.png",
+                "Universal": "Universal.png",
+                "Walk": "Walk.png"
+              }
+            },
+            "wolfman": {
+              "black": {
+                "Cast": "Cast.png",
+                "Hurt": "Hurt.png",
+                "Shoot": "Shoot.png",
+                "Slash": "Slash.png",
+                "Thrust": "Thrust.png",
+                "Universal": "Universal.png",
+                "Walk": "Walk.png"
+              },
+              "brown": {
+                "Cast": "Cast.png",
+                "Hurt": "Hurt.png",
+                "Shoot": "Shoot.png",
+                "Slash": "Slash.png",
+                "Thrust": "Thrust.png",
+                "Universal": "Universal.png",
+                "Walk": "Walk.png"
+              },
+              "chestnut": {
+                "Cast": "Cast.png",
+                "Hurt": "Hurt.png",
+                "Shoot": "Shoot.png",
+                "Slash": "Slash.png",
+                "Thrust": "Thrust.png",
+                "Universal": "Universal.png",
+                "Walk": "Walk.png"
+              },
+              "gold": {
+                "Cast": "Cast.png",
+                "Hurt": "Hurt.png",
+                "Shoot": "Shoot.png",
+                "Slash": "Slash.png",
+                "Thrust": "Thrust.png",
+                "Universal": "Universal.png",
+                "Walk": "Walk.png"
+              },
+              "gray": {
+                "Cast": "Cast.png",
+                "Hurt": "Hurt.png",
+                "Shoot": "Shoot.png",
+                "Slash": "Slash.png",
+                "Thrust": "Thrust.png",
+                "Universal": "Universal.png",
+                "Walk": "Walk.png"
+              },
+              "white": {
+                "Cast": "Cast.png",
+                "Hurt": "Hurt.png",
+                "Shoot": "Shoot.png",
+                "Slash": "Slash.png",
+                "Thrust": "Thrust.png",
+                "Universal": "Universal.png",
+                "Walk": "Walk.png"
+              }
+            }
+          },
+          "headband": {
+            "bandage": {
+              "cotton": {
+                "Universal": "Universal.png"
+              }
+            },
+            "headband": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "kerchief": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
           "helm": {
             "barbarian": {
               "brass": {
@@ -8480,6 +11594,114 @@
                 "Universal": "Universal.png"
               },
               "steel": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "helm_visor": {
+            "grated": {
+              "brass": {
+                "Universal": "Universal.png"
+              },
+              "bronze": {
+                "Universal": "Universal.png"
+              },
+              "ceramic": {
+                "Universal": "Universal.png"
+              },
+              "copper": {
+                "Universal": "Universal.png"
+              },
+              "gold": {
+                "Universal": "Universal.png"
+              },
+              "iron": {
+                "Universal": "Universal.png"
+              },
+              "silver": {
+                "Universal": "Universal.png"
+              },
+              "steel": {
+                "Universal": "Universal.png"
+              }
+            },
+            "grated_narrow": {
+              "brass": {
+                "Universal": "Universal.png"
+              },
+              "bronze": {
+                "Universal": "Universal.png"
+              },
+              "ceramic": {
+                "Universal": "Universal.png"
+              },
+              "copper": {
+                "Universal": "Universal.png"
+              },
+              "gold": {
+                "Universal": "Universal.png"
+              },
+              "iron": {
+                "Universal": "Universal.png"
+              },
+              "silver": {
+                "Universal": "Universal.png"
+              },
+              "steel": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "hood": {
+            "chain": {
+              "steel": {
+                "Universal": "Universal.png"
+              }
+            },
+            "cloth": {
+              "brown": {
+                "Universal": "Universal.png"
+              }
+            },
+            "hijab": {
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "grey": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "horns": {
+            "variant_1": {
+              "white": {
+                "Universal": "Universal.png",
+                "Universal_BG": "Universal_BG.png"
+              }
+            },
+            "variant_2": {
+              "white": {
+                "Universal": "Universal.png",
+                "Universal_BG": "Universal_BG.png"
+              }
+            },
+            "variant_3": {
+              "white": {
+                "Universal": "Universal.png",
+                "Universal_BG": "Universal_BG.png"
+              }
+            }
+          },
+          "mask": {
+            "claws": {
+              "red": {
+                "": ".todo",
+                "Slits": "Slits.png",
+                "Universal": "Universal.png"
+              }
+            },
+            "cultist": {
+              "white": {
                 "Universal": "Universal.png"
               }
             }
