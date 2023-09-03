@@ -29,13 +29,14 @@ const renameSingleDirectory = (directory) => {
 
 const humanoidsFolder = "./assets2/characters/humanoids";
 const clothesFolder = `${humanoidsFolder}/clothes`;
+const bodyPartsFolder = `${humanoidsFolder}/bodyparts`;
 
-const rootFolder = `${clothesFolder}/head/male/mask`;
+const rootFolder = `${clothesFolder}/hair/male/plain`;
 
-const directoriesInsideRootFolder = fs.readdirSync(rootFolder);
+// const directoriesInsideRootFolder = fs.readdirSync(rootFolder);
 
-directoriesInsideRootFolder.forEach((directory) => {
-  renameSingleDirectory(path.join(rootFolder, directory));
-});
+// directoriesInsideRootFolder.forEach((directory) => {
+//   renameSingleDirectory(path.join(rootFolder, directory));
+// });
 
-// renameSingleDirectory(`${clothesFolder}/torso/male/vest/pirate_open`);
+renameSingleDirectory(`${bodyPartsFolder}/hair/male/shortknot`);
