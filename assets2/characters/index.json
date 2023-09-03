@@ -7590,10 +7590,14 @@
         "male": {
           "armor": {
             "knight": {
-              "gold": "gold.png"
+              "gold": {
+                "Universal": "Universal.png"
+              }
             },
             "legion": {
-              "steel": "steel.png"
+              "steel": {
+                "Universal": "Universal.png"
+              }
             }
           }
         }

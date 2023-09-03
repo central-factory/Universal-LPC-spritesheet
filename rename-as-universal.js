@@ -30,7 +30,7 @@ const renameSingleDirectory = (directory) => {
 const humanoidsFolder = "./assets2/characters/humanoids";
 const clothesFolder = `${humanoidsFolder}/clothes`;
 
-const rootFolder = `${clothesFolder}/back/male/wings`;
+const rootFolder = `${clothesFolder}/arms/male/armor`;
 
 const directoriesInsideRootFolder = fs.readdirSync(rootFolder);
 
