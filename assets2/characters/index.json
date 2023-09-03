@@ -811,7 +811,11 @@
             "Universal": "Universal.png"
           }
         },
-        "muscular": {}
+        "muscular": {
+          "olive": {
+            "Universal": "Universal.png"
+          }
+        }
       },
       "orc": {
         "child": {
@@ -1061,6 +1065,13 @@
       }
     },
     "bodyParts": {
+      "arms": {
+        "male": {
+          "bloody": {
+            "Universal": "Universal.png"
+          }
+        }
+      },
       "ears": {
         "female": {
           "big": {
@@ -4933,6 +4944,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -5020,6 +5034,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -5111,6 +5128,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -5198,6 +5218,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -5289,6 +5312,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -5376,6 +5402,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -5467,6 +5496,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -5496,40 +5528,40 @@
             }
           },
           "k-idol": {
-            "kidol_hairstyle_male_ashblonde": {
+            "ashblonde": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_ashplatinum": {
+            "ashplatinum": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_black": {
+            "black": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_blonde": {
+            "blonde": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_blue": {
+            "blue": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_brown": {
+            "brown": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_brown2": {
+            "brown2": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_green": {
+            "green": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_orange": {
+            "orange": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_purple": {
+            "purple": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_red": {
+            "red": {
               "Universal": "Universal.png"
             },
-            "kidol_hairstyle_male_rosepink": {
+            "rosepink": {
               "Universal": "Universal.png"
             }
           },
@@ -5592,6 +5624,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -5694,6 +5729,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -5781,6 +5819,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -5872,6 +5913,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "loose": "loose.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -5959,6 +6003,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -6050,6 +6097,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -6137,6 +6187,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -6228,6 +6281,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -6315,6 +6371,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -6406,6 +6465,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -6495,6 +6557,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -6524,39 +6589,108 @@
             }
           },
           "plain": {
-            "black": "black.png",
-            "blonde": "blonde.png",
-            "blonde2": "blonde2.png",
-            "blue": "blue.png",
-            "blue2": "blue2.png",
-            "brown": "brown.png",
-            "brown2": "brown2.png",
-            "brunette": "brunette.png",
-            "brunette2": "brunette2.png",
-            "dark-blonde": "dark-blonde.png",
-            "gold": "gold.png",
-            "gray": "gray.png",
-            "gray2": "gray2.png",
-            "green": "green.png",
-            "green2": "green2.png",
-            "light-blonde": "light-blonde.png",
-            "light-blonde2": "light-blonde2.png",
-            "pink": "pink.png",
-            "pink2": "pink2.png",
-            "purple": "purple.png",
-            "raven": "raven.png",
-            "raven2": "raven2.png",
-            "redhead": "redhead.png",
-            "redhead2": "redhead2.png",
-            "ruby-red": "ruby-red.png",
-            "shadows-darkbody": "shadows-darkbody.png",
-            "shadows-lightbody": "shadows-lightbody.png",
-            "shadows-tanned2body": "shadows-tanned2body.png",
-            "shadows-tannedbody": "shadows-tannedbody.png",
-            "white-blonde": "white-blonde.png",
-            "white-blonde2": "white-blonde2.png",
-            "white-cyan": "white-cyan.png",
-            "white": "white.png"
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "blonde": {
+              "Universal": "Universal.png"
+            },
+            "blonde2": {
+              "Universal": "Universal.png"
+            },
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "blue2": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "brown2": {
+              "Universal": "Universal.png"
+            },
+            "brunette": {
+              "Universal": "Universal.png"
+            },
+            "brunette2": {
+              "Universal": "Universal.png"
+            },
+            "dark-blonde": {
+              "Universal": "Universal.png"
+            },
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "gray": {
+              "Universal": "Universal.png"
+            },
+            "gray2": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "green2": {
+              "Universal": "Universal.png"
+            },
+            "light-blonde": {
+              "Universal": "Universal.png"
+            },
+            "light-blonde2": {
+              "Universal": "Universal.png"
+            },
+            "pink": {
+              "Universal": "Universal.png"
+            },
+            "pink2": {
+              "Universal": "Universal.png"
+            },
+            "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
+            "raven": {
+              "Universal": "Universal.png"
+            },
+            "raven2": {
+              "Universal": "Universal.png"
+            },
+            "redhead": {
+              "Universal": "Universal.png"
+            },
+            "redhead2": {
+              "Universal": "Universal.png"
+            },
+            "ruby-red": {
+              "Universal": "Universal.png"
+            },
+            "shadows-darkbody": {
+              "Universal": "Universal.png"
+            },
+            "shadows-lightbody": {
+              "Universal": "Universal.png"
+            },
+            "shadows-tanned2body": {
+              "Universal": "Universal.png"
+            },
+            "shadows-tannedbody": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            },
+            "white-blonde": {
+              "Universal": "Universal.png"
+            },
+            "white-blonde2": {
+              "Universal": "Universal.png"
+            },
+            "white-cyan": {
+              "Universal": "Universal.png"
+            }
           },
           "ponytail": {
             "black": {
@@ -6619,6 +6753,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -6648,35 +6785,96 @@
             }
           },
           "ponytail2": {
-            "black": "black.png",
-            "blonde": "blonde.png",
-            "blonde2": "blonde2.png",
-            "blue": "blue.png",
-            "blue2": "blue2.png",
-            "brown": "brown.png",
-            "brown2": "brown2.png",
-            "brunette": "brunette.png",
-            "brunette2": "brunette2.png",
-            "dark-blonde": "dark-blonde.png",
-            "gold": "gold.png",
-            "gray": "gray.png",
-            "gray2": "gray2.png",
-            "green": "green.png",
-            "green2": "green2.png",
-            "light-blonde": "light-blonde.png",
-            "light-blonde2": "light-blonde2.png",
-            "pink": "pink.png",
-            "pink2": "pink2.png",
-            "purple": "purple.png",
-            "raven": "raven.png",
-            "raven2": "raven2.png",
-            "redhead": "redhead.png",
-            "redhead2": "redhead2.png",
-            "ruby-red": "ruby-red.png",
-            "white-blonde": "white-blonde.png",
-            "white-blonde2": "white-blonde2.png",
-            "white-cyan": "white-cyan.png",
-            "white": "white.png"
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "blonde": {
+              "Universal": "Universal.png"
+            },
+            "blonde2": {
+              "Universal": "Universal.png"
+            },
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "blue2": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "brown2": {
+              "Universal": "Universal.png"
+            },
+            "brunette": {
+              "Universal": "Universal.png"
+            },
+            "brunette2": {
+              "Universal": "Universal.png"
+            },
+            "dark-blonde": {
+              "Universal": "Universal.png"
+            },
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "gray": {
+              "Universal": "Universal.png"
+            },
+            "gray2": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "green2": {
+              "Universal": "Universal.png"
+            },
+            "light-blonde": {
+              "Universal": "Universal.png"
+            },
+            "light-blonde2": {
+              "Universal": "Universal.png"
+            },
+            "pink": {
+              "Universal": "Universal.png"
+            },
+            "pink2": {
+              "Universal": "Universal.png"
+            },
+            "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
+            "raven": {
+              "Universal": "Universal.png"
+            },
+            "raven2": {
+              "Universal": "Universal.png"
+            },
+            "redhead": {
+              "Universal": "Universal.png"
+            },
+            "redhead2": {
+              "Universal": "Universal.png"
+            },
+            "ruby-red": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            },
+            "white-blonde": {
+              "Universal": "Universal.png"
+            },
+            "white-blonde2": {
+              "Universal": "Universal.png"
+            },
+            "white-cyan": {
+              "Universal": "Universal.png"
+            }
           },
           "princess": {
             "black": {
@@ -6737,6 +6935,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -6833,6 +7034,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -6862,35 +7066,96 @@
             }
           },
           "shortknot": {
-            "black": "black.png",
-            "blonde": "blonde.png",
-            "blonde2": "blonde2.png",
-            "blue": "blue.png",
-            "blue2": "blue2.png",
-            "brown": "brown.png",
-            "brown2": "brown2.png",
-            "brunette": "brunette.png",
-            "brunette2": "brunette2.png",
-            "dark-blonde": "dark-blonde.png",
-            "gold": "gold.png",
-            "gray": "gray.png",
-            "gray2": "gray2.png",
-            "green": "green.png",
-            "green2": "green2.png",
-            "light-blonde": "light-blonde.png",
-            "light-blonde2": "light-blonde2.png",
-            "pink": "pink.png",
-            "pink2": "pink2.png",
-            "purple": "purple.png",
-            "raven": "raven.png",
-            "raven2": "raven2.png",
-            "redhead": "redhead.png",
-            "redhead2": "redhead2.png",
-            "ruby-red": "ruby-red.png",
-            "white-blonde": "white-blonde.png",
-            "white-blonde2": "white-blonde2.png",
-            "white-cyan": "white-cyan.png",
-            "white": "white.png"
+            "black": {
+              "Universal": "Universal.png"
+            },
+            "blonde": {
+              "Universal": "Universal.png"
+            },
+            "blonde2": {
+              "Universal": "Universal.png"
+            },
+            "blue": {
+              "Universal": "Universal.png"
+            },
+            "blue2": {
+              "Universal": "Universal.png"
+            },
+            "brown": {
+              "Universal": "Universal.png"
+            },
+            "brown2": {
+              "Universal": "Universal.png"
+            },
+            "brunette": {
+              "Universal": "Universal.png"
+            },
+            "brunette2": {
+              "Universal": "Universal.png"
+            },
+            "dark-blonde": {
+              "Universal": "Universal.png"
+            },
+            "gold": {
+              "Universal": "Universal.png"
+            },
+            "gray": {
+              "Universal": "Universal.png"
+            },
+            "gray2": {
+              "Universal": "Universal.png"
+            },
+            "green": {
+              "Universal": "Universal.png"
+            },
+            "green2": {
+              "Universal": "Universal.png"
+            },
+            "light-blonde": {
+              "Universal": "Universal.png"
+            },
+            "light-blonde2": {
+              "Universal": "Universal.png"
+            },
+            "pink": {
+              "Universal": "Universal.png"
+            },
+            "pink2": {
+              "Universal": "Universal.png"
+            },
+            "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
+            "raven": {
+              "Universal": "Universal.png"
+            },
+            "raven2": {
+              "Universal": "Universal.png"
+            },
+            "redhead": {
+              "Universal": "Universal.png"
+            },
+            "redhead2": {
+              "Universal": "Universal.png"
+            },
+            "ruby-red": {
+              "Universal": "Universal.png"
+            },
+            "white": {
+              "Universal": "Universal.png"
+            },
+            "white-blonde": {
+              "Universal": "Universal.png"
+            },
+            "white-blonde2": {
+              "Universal": "Universal.png"
+            },
+            "white-cyan": {
+              "Universal": "Universal.png"
+            }
           },
           "shoulderl": {
             "black": {
@@ -6951,6 +7216,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -7042,6 +7310,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -7129,6 +7400,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -7220,6 +7494,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -7307,6 +7584,9 @@
               "Universal": "Universal.png"
             },
             "purple": {
+              "Universal": "Universal.png"
+            },
+            "purple2": {
               "Universal": "Universal.png"
             },
             "raven": {
@@ -7398,6 +7678,9 @@
             "purple": {
               "Universal": "Universal.png"
             },
+            "purple2": {
+              "Universal": "Universal.png"
+            },
             "raven": {
               "Universal": "Universal.png"
             },
@@ -7424,6 +7707,86 @@
             },
             "white-cyan": {
               "Universal": "Universal.png"
+            }
+          }
+        }
+      },
+      "head": {
+        "male": {
+          "boarman": {
+            "brown": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            }
+          },
+          "brain": {
+            "gray": {
+              "Universal": "Universal.png"
+            }
+          },
+          "minotaur": {
+            "olive": {
+              "Universal": "Universal.png"
+            }
+          },
+          "wolfman": {
+            "black": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "brown": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "chestnut": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "gold": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "gray": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
+            },
+            "white": {
+              "Cast": "Cast.png",
+              "Hurt": "Hurt.png",
+              "Shoot": "Shoot.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
             }
           }
         }
@@ -7581,6 +7944,13 @@
             "tanned": {
               "Universal": "Universal.png"
             }
+          }
+        }
+      },
+      "torso": {
+        "male": {
+          "ribs": {
+            "Universal": "Universal.png"
           }
         }
       }
@@ -10982,74 +11352,6 @@
               }
             }
           },
-          "head": {
-            "boarman": {
-              "brown": {
-                "Cast": "Cast.png",
-                "Hurt": "Hurt.png",
-                "Slash": "Slash.png",
-                "Thrust": "Thrust.png",
-                "Universal": "Universal.png",
-                "Walk": "Walk.png"
-              }
-            },
-            "wolfman": {
-              "black": {
-                "Cast": "Cast.png",
-                "Hurt": "Hurt.png",
-                "Shoot": "Shoot.png",
-                "Slash": "Slash.png",
-                "Thrust": "Thrust.png",
-                "Universal": "Universal.png",
-                "Walk": "Walk.png"
-              },
-              "brown": {
-                "Cast": "Cast.png",
-                "Hurt": "Hurt.png",
-                "Shoot": "Shoot.png",
-                "Slash": "Slash.png",
-                "Thrust": "Thrust.png",
-                "Universal": "Universal.png",
-                "Walk": "Walk.png"
-              },
-              "chestnut": {
-                "Cast": "Cast.png",
-                "Hurt": "Hurt.png",
-                "Shoot": "Shoot.png",
-                "Slash": "Slash.png",
-                "Thrust": "Thrust.png",
-                "Universal": "Universal.png",
-                "Walk": "Walk.png"
-              },
-              "gold": {
-                "Cast": "Cast.png",
-                "Hurt": "Hurt.png",
-                "Shoot": "Shoot.png",
-                "Slash": "Slash.png",
-                "Thrust": "Thrust.png",
-                "Universal": "Universal.png",
-                "Walk": "Walk.png"
-              },
-              "gray": {
-                "Cast": "Cast.png",
-                "Hurt": "Hurt.png",
-                "Shoot": "Shoot.png",
-                "Slash": "Slash.png",
-                "Thrust": "Thrust.png",
-                "Universal": "Universal.png",
-                "Walk": "Walk.png"
-              },
-              "white": {
-                "Cast": "Cast.png",
-                "Hurt": "Hurt.png",
-                "Shoot": "Shoot.png",
-                "Slash": "Slash.png",
-                "Thrust": "Thrust.png",
-                "Universal": "Universal.png",
-                "Walk": "Walk.png"
-              }
-            }
-          },
           "headband": {
             "bandage": {
               "cotton": {
@@ -11708,6 +12010,210 @@
           }
         }
       },
+      "legs": {
+        "male": {
+          "armor": {
+            "greaves": {
+              "gold": {
+                "Universal": "Universal.png"
+              },
+              "steel": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "pants": {
+            "pantaloons": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            },
+            "pants": {
+              "black": {
+                "Universal": "Universal.png"
+              },
+              "blue": {
+                "Universal": "Universal.png"
+              },
+              "bluegray": {
+                "Universal": "Universal.png"
+              },
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "charcoal": {
+                "Universal": "Universal.png"
+              },
+              "forest": {
+                "Universal": "Universal.png"
+              },
+              "formal": {
+                "Universal": "Universal.png"
+              },
+              "formal_stripes": {
+                "Universal": "Universal.png"
+              },
+              "gray": {
+                "Universal": "Universal.png"
+              },
+              "green": {
+                "Universal": "Universal.png"
+              },
+              "lavender": {
+                "Universal": "Universal.png"
+              },
+              "leather": {
+                "Universal": "Universal.png"
+              },
+              "magenta": {
+                "Universal": "Universal.png"
+              },
+              "maroon": {
+                "Universal": "Universal.png"
+              },
+              "navy": {
+                "Universal": "Universal.png"
+              },
+              "orange": {
+                "Universal": "Universal.png"
+              },
+              "pink": {
+                "Universal": "Universal.png"
+              },
+              "purple": {
+                "Universal": "Universal.png"
+              },
+              "red": {
+                "Universal": "Universal.png"
+              },
+              "rose": {
+                "Universal": "Universal.png"
+              },
+              "shorts": {
+                "Universal": "Universal.png"
+              },
+              "sky": {
+                "Universal": "Universal.png"
+              },
+              "slate": {
+                "Universal": "Universal.png"
+              },
+              "tan": {
+                "Universal": "Universal.png"
+              },
+              "teal": {
+                "Universal": "Universal.png"
+              },
+              "teal_2": {
+                "Universal": "Universal.png"
+              },
+              "walnut": {
+                "Universal": "Universal.png"
+              },
+              "white": {
+                "Universal": "Universal.png"
+              },
+              "yellow": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "rag": {
+            "bandage": {
+              "left_leg": {
+                "Universal": "Universal.png"
+              },
+              "right_leg": {
+                "Universal": "Universal.png"
+              }
+            }
+          },
+          "skirt": {
+            "leather": {
+              "brown": {
+                "Universal": "Universal.png"
+              },
+              "brown_2": {
+                "Universal": "Universal.png"
+              }
+            },
+            "legion": {
+              "brown": {
+                "Universal": "Universal.png"
+              }
+            }
+          }
+        }
+      },
       "shoulders": {
         "male": {
           "armor": {
@@ -11852,6 +12358,8 @@
                 "Universal": "Universal.png"
               },
               "gold": {
+                "": ".todo",
+                "Spikes": "Spikes.png",
                 "Universal": "Universal.png"
               },
               "plate": {
@@ -12539,6 +13047,23 @@
               }
             }
           }
+        }
+      }
+    },
+    "shadows": {
+      "male": {
+        "shadow": {
+          "child": {
+            "shadow": {
+              "Universal": "Universal.png"
+            }
+          },
+          "female": {
+            "shadow": {
+              "Universal": "Universal.png"
+            }
+          },
+          "Universal": "Universal.png"
         }
       }
     }
