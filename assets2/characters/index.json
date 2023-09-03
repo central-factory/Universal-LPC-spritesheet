@@ -13812,6 +13812,9 @@
           "spear": {
             "iron": {
               "Universal": "Universal.png"
+            },
+            "javelin": {
+              "Universal": "Universal.png"
             }
           },
           "straps": {
@@ -13953,9 +13956,6 @@
               "Universal": "Universal.png"
             },
             "scythe": {
-              "Universal": "Universal.png"
-            },
-            "spear": {
               "Universal": "Universal.png"
             },
             "trident": {
