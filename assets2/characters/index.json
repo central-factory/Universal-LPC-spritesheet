@@ -13825,21 +13825,15 @@
         "male": {
           "axe": {
             "axe": {
-              "Universal": "Universal.png"
-            },
-            "Hurt": {
-              "Universal": "Universal.png"
+              "Hurt": "Hurt.png",
+              "Slash": "Slash.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
             },
             "labrys": {
               "Universal": "Universal.png"
             },
             "pickaxe": {
-              "Universal": "Universal.png"
-            },
-            "Slash": {
-              "Universal": "Universal.png"
-            },
-            "Walk": {
               "Universal": "Universal.png"
             },
             "war_axe": {
@@ -13914,40 +13908,17 @@
           },
           "flail": {
             "flail": {
-              "Universal": "Universal.png"
-            },
-            "Hurt": {
-              "Universal": "Universal.png"
-            },
-            "Slash": {
-              "Universal": "Universal.png"
-            },
-            "Walk": {
-              "Universal": "Universal.png"
-            }
-          },
-          "halberd": {
-            "halberd": {
-              "Universal": "Universal.png"
-            },
-            "Hurt": {
-              "Universal": "Universal.png"
-            },
-            "Slash": {
-              "Universal": "Universal.png"
-            },
-            "Thrust": {
-              "Universal": "Universal.png"
-            },
-            "Walk": {
-              "Universal": "Universal.png"
+              "Hurt": "Hurt.png",
+              "Slash": "Slash.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
             }
           },
           "hammer": {
             "warhammer": {
               "Universal": "Universal.png"
             },
-            "warhammer copy": {
+            "warhammer_2": {
               "Universal": "Universal.png"
             }
           },
@@ -13970,6 +13941,13 @@
             },
             "dragon": {
               "Universal": "Universal.png"
+            },
+            "halberd": {
+              "Hurt": "Hurt.png",
+              "Slash": "Slash.png",
+              "Thrust": "Thrust.png",
+              "Universal": "Universal.png",
+              "Walk": "Walk.png"
             },
             "iron": {
               "Universal": "Universal.png"
@@ -14038,8 +14016,7 @@
             "sword_sheet_128": {
               "Universal": "Universal.png"
             }
-          },
-          "thrust": {}
+          }
         }
       }
     },
