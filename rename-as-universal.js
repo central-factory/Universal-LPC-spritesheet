@@ -10,12 +10,16 @@ const renameSingleDirectory = (directory) => {
     .forEach((file) => {
       const [name, extension] = file.split(".");
 
-      fs.mkdirSync(path.join(directory, name));
+      try {
+        fs.mkdirSync(path.join(directory, name));
 
-      fs.renameSync(
-        path.join(directory, file),
-        path.join(directory, name, `Universal.${extension}`)
-      );
+        fs.renameSync(
+          path.join(directory, file),
+          path.join(directory, name, `Universal.${extension}`)
+        );
+      } catch (err) {
+        console.warn(err.message);
+      }
 
       console.log(
         `Renamed ${file} to ${path.join(
@@ -30,13 +34,14 @@ const renameSingleDirectory = (directory) => {
 const humanoidsFolder = "./assets2/characters/humanoids";
 const clothesFolder = `${humanoidsFolder}/clothes`;
 const bodyPartsFolder = `${humanoidsFolder}/bodyparts`;
+const handsFolder = `${humanoidsFolder}/hands`;
 
-const rootFolder = `${clothesFolder}/hair/male/plain`;
+const rootFolder = `${handsFolder}/rightHand/male`;
 
-// const directoriesInsideRootFolder = fs.readdirSync(rootFolder);
+const directoriesInsideRootFolder = fs.readdirSync(rootFolder);
 
-// directoriesInsideRootFolder.forEach((directory) => {
-//   renameSingleDirectory(path.join(rootFolder, directory));
-// });
+directoriesInsideRootFolder.forEach((directory) => {
+  renameSingleDirectory(path.join(rootFolder, directory));
+});
 
-renameSingleDirectory(`${bodyPartsFolder}/hair/male/shortknot`);
+// renameSingleDirectory(`${bodyPartsFolder}/back/child/lizard_wings`);
