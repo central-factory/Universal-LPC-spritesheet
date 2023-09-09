@@ -14021,18 +14021,18 @@
       }
     },
     "shadows": {
+      "child": {
+        "shadow": {
+          "Universal": "Universal.png"
+        }
+      },
+      "female": {
+        "shadow": {
+          "Universal": "Universal.png"
+        }
+      },
       "male": {
         "shadow": {
-          "child": {
-            "shadow": {
-              "Universal": "Universal.png"
-            }
-          },
-          "female": {
-            "shadow": {
-              "Universal": "Universal.png"
-            }
-          },
           "Universal": "Universal.png"
         }
       }
