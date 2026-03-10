@@ -1,4 +1,5 @@
 {
+  "": ".DS_Store",
   "beasts": {
     "bodies": {
       "bird": {
@@ -254,6 +255,9 @@
             "": ".todo",
             "Attack": "Attack.png",
             "Attribution": "Attribution.txt",
+            "Die": "Die.png",
+            "Stand": "Stand.png",
+            "Walk": "Walk.png",
             "base": {
               "Armor": {
                 "Attack": {
@@ -335,10 +339,7 @@
                   "Barrel Walk": "Barrel Walk.png"
                 }
               }
-            },
-            "Die": "Die.png",
-            "Stand": "Stand.png",
-            "Walk": "Walk.png"
+            }
           }
         },
         "pig": {
@@ -380,7 +381,6 @@
           }
         },
         "rat": {
-          "gray": {},
           "Walk": "Walk.png"
         }
       },
@@ -423,7 +423,9 @@
     }
   },
   "humanoids": {
+    "": ".DS_Store",
     "bodies": {
+      "": ".DS_Store",
       "alien": {
         "male": {
           "gray": {
@@ -476,28 +478,28 @@
           "dove": {
             "": ".todo",
             "base": {
+              "_preview": "_preview.png",
               "hurt": "hurt.png",
               "idle": "idle.png",
               "magic": "magic.png",
               "shoot": "shoot.png",
               "swing": "swing.png",
               "thrust": "thrust.png",
-              "walk": "walk.png",
-              "_preview": "_preview.png"
+              "walk": "walk.png"
             }
           },
           "lavender": {
+            "Universal": "Universal.png",
             "base": {
+              "_preview": "_preview.png",
               "hurt": "hurt.png",
               "idle": "idle.png",
               "magic": "magic.png",
               "shoot": "shoot.png",
               "swing": "swing.png",
               "thrust": "thrust.png",
-              "walk": "walk.png",
-              "_preview": "_preview.png"
-            },
-            "Universal": "Universal.png"
+              "walk": "walk.png"
+            }
           },
           "periwinkle": {
             "Universal": "Universal.png"
@@ -541,6 +543,7 @@
         }
       },
       "human": {
+        "": ".DS_Store",
         "baby": {
           "ivory": {
             "": ".todo",
@@ -567,7 +570,6 @@
             "Walk": "Walk.png",
             "Walk2": "Walk2.png"
           },
-          "light": {},
           "olive": {
             "Walk": "Walk.png"
           },
@@ -585,6 +587,7 @@
           }
         },
         "female": {
+          "": ".DS_Store",
           "black": {
             "Universal": "Universal.png"
           },
@@ -594,68 +597,68 @@
           "coffee": {
             "": ".todo",
             "base": {
+              "_preview": "_preview.png",
               "hurt": "hurt.png",
               "idle": "idle.png",
               "magic": "magic.png",
               "shoot": "shoot.png",
               "swing": "swing.png",
               "thrust": "thrust.png",
-              "walk": "walk.png",
-              "_preview": "_preview.png"
+              "walk": "walk.png"
             }
           },
           "comet": {
             "": ".todo",
             "base": {
+              "_preview": "_preview.png",
               "hurt": "hurt.png",
               "idle": "idle.png",
               "magic": "magic.png",
               "shoot": "shoot.png",
               "swing": "swing.png",
               "thrust": "thrust.png",
-              "walk": "walk.png",
-              "_preview": "_preview.png"
+              "walk": "walk.png"
             }
           },
           "copper": {
+            "Universal": "Universal.png",
             "base": {
+              "_preview": "_preview.png",
               "hurt": "hurt.png",
               "idle": "idle.png",
               "magic": "magic.png",
               "shoot": "shoot.png",
               "swing": "swing.png",
               "thrust": "thrust.png",
-              "walk": "walk.png",
-              "_preview": "_preview.png"
-            },
-            "Universal": "Universal.png"
+              "walk": "walk.png"
+            }
           },
           "gold": {
+            "Universal": "Universal.png",
             "base": {
+              "_preview": "_preview.png",
               "hurt": "hurt.png",
               "idle": "idle.png",
               "magic": "magic.png",
               "shoot": "shoot.png",
               "swing": "swing.png",
               "thrust": "thrust.png",
-              "walk": "walk.png",
-              "_preview": "_preview.png"
-            },
-            "Universal": "Universal.png"
+              "walk": "walk.png"
+            }
           },
           "ivory": {
+            "Universal": "Universal.png",
+            "Universal2": "Universal2.png",
             "base": {
+              "_preview": "_preview.png",
               "hurt": "hurt.png",
               "idle": "idle.png",
               "magic": "magic.png",
               "shoot": "shoot.png",
               "swing": "swing.png",
               "thrust": "thrust.png",
-              "walk": "walk.png",
-              "_preview": "_preview.png"
-            },
-            "Universal": "Universal.png",
-            "Universal2": "Universal2.png"
+              "walk": "walk.png"
+            }
           },
           "olive": {
             "Universal": "Universal.png"
@@ -664,23 +667,24 @@
             "Universal": "Universal.png"
           },
           "sienna": {
+            "Universal": "Universal.png",
             "base": {
+              "_preview": "_preview.png",
               "hurt": "hurt.png",
               "idle": "idle.png",
               "magic": "magic.png",
               "shoot": "shoot.png",
               "swing": "swing.png",
               "thrust": "thrust.png",
-              "walk": "walk.png",
-              "_preview": "_preview.png"
-            },
-            "Universal": "Universal.png"
+              "walk": "walk.png"
+            }
           },
           "tanned": {
             "Universal": "Universal.png"
           }
         },
         "male": {
+          "": ".DS_Store",
           "black": {
             "Universal": "Universal.png"
           },
@@ -1065,6 +1069,7 @@
       }
     },
     "bodyParts": {
+      "": ".DS_Store",
       "arms": {
         "male": {
           "bloody": {
@@ -2262,6 +2267,7 @@
         }
       },
       "hair": {
+        "": ".DS_Store",
         "female": {
           "bangs": {
             "black": {
@@ -9456,18 +9462,6 @@
               "black_yellow": {
                 "Universal": "Universal.png"
               },
-              "bluegray_bronze": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_gold": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_silver": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_yellow": {
-                "Universal": "Universal.png"
-              },
               "blue_bronze": {
                 "Universal": "Universal.png"
               },
@@ -9478,6 +9472,18 @@
                 "Universal": "Universal.png"
               },
               "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
                 "Universal": "Universal.png"
               },
               "brown_bronze": {
@@ -9746,18 +9752,6 @@
               "black_yellow": {
                 "Universal": "Universal.png"
               },
-              "bluegray_bronze": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_gold": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_silver": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_yellow": {
-                "Universal": "Universal.png"
-              },
               "blue_bronze": {
                 "Universal": "Universal.png"
               },
@@ -9768,6 +9762,18 @@
                 "Universal": "Universal.png"
               },
               "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
                 "Universal": "Universal.png"
               },
               "brown_bronze": {
@@ -10036,18 +10042,6 @@
               "black_yellow": {
                 "Universal": "Universal.png"
               },
-              "bluegray_bronze": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_gold": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_silver": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_yellow": {
-                "Universal": "Universal.png"
-              },
               "blue_bronze": {
                 "Universal": "Universal.png"
               },
@@ -10058,6 +10052,18 @@
                 "Universal": "Universal.png"
               },
               "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
                 "Universal": "Universal.png"
               },
               "brown_bronze": {
@@ -10474,18 +10480,6 @@
               "black_yellow": {
                 "Universal": "Universal.png"
               },
-              "bluegray_bronze": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_gold": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_silver": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_yellow": {
-                "Universal": "Universal.png"
-              },
               "blue_bronze": {
                 "Universal": "Universal.png"
               },
@@ -10496,6 +10490,18 @@
                 "Universal": "Universal.png"
               },
               "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
                 "Universal": "Universal.png"
               },
               "brown_bronze": {
@@ -11153,18 +11159,6 @@
               "black_yellow": {
                 "Universal": "Universal.png"
               },
-              "bluegray_bronze": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_gold": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_silver": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_yellow": {
-                "Universal": "Universal.png"
-              },
               "blue_bronze": {
                 "Universal": "Universal.png"
               },
@@ -11175,6 +11169,18 @@
                 "Universal": "Universal.png"
               },
               "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
                 "Universal": "Universal.png"
               },
               "brown_bronze": {
@@ -11591,18 +11597,6 @@
               "black_yellow": {
                 "Universal": "Universal.png"
               },
-              "bluegray_bronze": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_gold": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_silver": {
-                "Universal": "Universal.png"
-              },
-              "bluegray_yellow": {
-                "Universal": "Universal.png"
-              },
               "blue_bronze": {
                 "Universal": "Universal.png"
               },
@@ -11613,6 +11607,18 @@
                 "Universal": "Universal.png"
               },
               "blue_yellow": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_bronze": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_gold": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_silver": {
+                "Universal": "Universal.png"
+              },
+              "bluegray_yellow": {
                 "Universal": "Universal.png"
               },
               "brown_bronze": {
@@ -13790,9 +13796,9 @@
               "2f0": "2f0.png",
               "2f1": "2f1.png",
               "2f2": "2f2.png",
+              "_1": "_1.png",
               "shield": "shield.png",
-              "shield_2": "shield_2.png",
-              "_1": "_1.png"
+              "shield_2": "shield_2.png"
             },
             "crusader": {
               "Universal": "Universal.png"
